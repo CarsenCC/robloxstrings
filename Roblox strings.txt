@@ -1,0 +1,1317 @@
+.rdata:00007FF619743698	0000001A	C	RobloxPlayerInstaller.exe
+.rdata:00007FF6197436E0	0000000E	C	WindowsPlayer
+.rdata:00007FF61976CEB0	00000014	C	hbRCCRepl_player_id
+.rdata:00007FF61976CF68	00000009	C	PlayerId
+.rdata:00007FF61976CFB8	00000009	C	PlayerId
+.rdata:00007FF61978A118	00000036	C	VoiceChatPlayerMuteStateChangedClientToServerReceived
+.rdata:00007FF61978A150	00000032	C	VoiceChatPlayerMuteStateChangedClientToServerSent
+.rdata:00007FF61978A1D0	00000036	C	VoiceChatPlayerMuteStateChangedServerToClientReceived
+.rdata:00007FF61978A208	00000032	C	VoiceChatPlayerMuteStateChangedServerToClientSent
+.rdata:00007FF61978C758	00000012	C	PlayerViewService
+.rdata:00007FF619E35398	00000014	C	PlayerExeLaunchTime
+.rdata:00007FF619E36278	00000008	C	Players
+.rdata:00007FF619E37298	00000027	C	Windows-ROBLOXPlayer-Deeplink-Received
+.rdata:00007FF619E372C0	0000002C	C	Windows-ROBLOXPlayer-Deeplink-Startup-Empty
+.rdata:00007FF619E37430	00000065	C	[FLog::WndProcessCheck] waitForNewPlayerProcess new waiting for mutex result is = 0x%X, ERROR = 0x%X
+.rdata:00007FF619E37650	00000019	C	RobloxPlayerLauncher.exe
+.rdata:00007FF619E37A08	0000002C	C	Windows-ROBLOXPlayer-Session-Inferred-Crash
+.rdata:00007FF619E37A38	0000002E	C	Windows-ROBLOXPlayer-Session-Inferred-Success
+.rdata:00007FF619E37AC0	00000039	C	Windows-ROBLOXPlayer-FilteredExceptionSendOnInferredStep
+.rdata:00007FF619E392D8	0000000E	C	WindowsPlayer
+.rdata:00007FF619E39CF0	0000001A	C	RobloxPlayerInstaller.exe
+.rdata:00007FF619E3BC00	0000000F	C	PlayerId=%llu\n
+.rdata:00007FF619E406D0	00000018	C	CLSID_MPEG1PacketPlayer
+.rdata:00007FF619E44168	00000021	C	/v1/client-version/WindowsPlayer
+.rdata:00007FF619E4D538	00000021	C	ClientLightingTechnologyIxpLayer
+.rdata:00007FF619E4E3E8	0000001C	C	PlayerApp.SearchResultsPage
+.rdata:00007FF619E4E408	00000020	C	IxpUserAppLayersPrefetchEnabled
+.rdata:00007FF619E4E440	0000001F	C	PlayerApp.SearchResultsPage.UX
+.rdata:00007FF619E4E460	00000023	C	PlayerApp.GameDetailsPage.Exposure
+.rdata:00007FF619E4E488	0000001A	C	PlayerApp.GameDetailsPage
+.rdata:00007FF619E4E4A8	0000001A	C	PlayerApp.TopNavSearchBox
+.rdata:00007FF619E4E4C8	00000011	C	PlayerApp.GridUI
+.rdata:00007FF619E4E4E0	00000016	C	PlayerApp.HomePage.UX
+.rdata:00007FF619E4E4F8	0000001A	C	PlayerApp.HomeGamePage.UX
+.rdata:00007FF619E4E6F0	0000001D	C	PlayerApp.OnExperienceReturn
+.rdata:00007FF619E4E7C0	00000017	C	PlayerApp.BottomBarNav
+.rdata:00007FF619E4F5B0	00000039	C	Couldn't get the PlayerGui to get the screen orientation
+.rdata:00007FF619E509F0	0000000B	C	PlayErrors
+.rdata:00007FF619E51050	00000025	C	AppBridgeExplicitDefaultPlayerParams
+.rdata:00007FF619E53C38	00000020	C	DebugDataModelDumpSavePlayerGui
+.rdata:00007FF619E635F0	0000000A	C	PlayerGui
+.rdata:00007FF619E65CE8	00000016	C	PlayerEmulatorService
+.rdata:00007FF619E669D8	00000015	C	player_set_character
+.rdata:00007FF619E66A80	00000020	C	PlayerConfigurerCDNProbeDelayMs
+.rdata:00007FF619E66B48	0000001F	C	PlayerConfigurerLMSTestDelayMs
+.rdata:00007FF619E66B68	0000001B	C	PlayerConfigurerRunLMSTest
+.rdata:00007FF619E66B88	00000023	C	DebugPlayerConfigurerOthersMetrics
+.rdata:00007FF619E66BB0	00000015	C	PlayerConfigurer2886
+.rdata:00007FF619E66EB8	00000022	C	DeprecateLocalPlayerCreatedSignal
+.rdata:00007FF619E67218	00000020	C	PlayerConfigurerMissingLocaleId
+.rdata:00007FF619E672C0	0000001C	C	ELFReportPlayerSetCharacter
+.rdata:00007FF619E67540	00000011	C	PlayerConfigured
+.rdata:00007FF619E67610	0000000E	C	PlayerScripts
+.rdata:00007FF619E67958	0000001B	C	KEY_PLAYER_IDLE_DISCONNECT
+.rdata:00007FF619E67DC0	00000035	C	[FLog::LogStepTimeAndNetworkUsage] Player Configured
+.rdata:00007FF619E68158	0000001C	C	Successfully created player
+.rdata:00007FF619E68368	0000000D	C	CreatePlayer
+.rdata:00007FF619E68528	0000002C	C	Player:%s,local:%d,id:%lld,time:%.3f,key:%p
+.rdata:00007FF619E68890	00000026	C	[FLog::AvatarJoinMetrics] > NonPlayer
+.rdata:00007FF619E688B8	00000028	C	[FLog::AvatarJoinMetrics] > OtherPlayer
+.rdata:00007FF619E688E0	00000028	C	[FLog::AvatarJoinMetrics] > LocalPlayer
+.rdata:00007FF619E68A90	0000002C	C	[FLog::AvatarJoinMetrics]   #players = %lld
+.rdata:00007FF619E68EE8	00000014	C	PlayerConfigureTime
+.rdata:00007FF619E69168	00000020	C	PlayerConfigToConnectTime_Luobu
+.rdata:00007FF619E69188	00000024	C	FetchedScriptToPlayerConfTime_Luobu
+.rdata:00007FF619E69448	00000025	C	PlayerConfigToConnectTime_Country_%s
+.rdata:00007FF619E69470	00000029	C	FetchedScriptToPlayerConfTime_Country_%s
+.rdata:00007FF619E69620	0000001E	C	FetchedScriptToPlayerConfTime
+.rdata:00007FF619E69710	00000028	C	PlayerConfigToConnectTime_Country_%s_%s
+.rdata:00007FF619E69738	0000002C	C	FetchedScriptToPlayerConfTime_Country_%s_%s
+.rdata:00007FF619E69840	0000002C	C	PlayerConfigToConnectTime_Country_%s_Mobile
+.rdata:00007FF619E69870	00000030	C	FetchedScriptToPlayerConfTime_Country_%s_Mobile
+.rdata:00007FF619E69A70	0000003B	C	[FLog::JoinTimeLog] FetchedScriptToPlayerConfTime   : %.4f
+.rdata:00007FF619E69C30	0000003B	C	[FLog::JoinTimeLog] PlayerConfigToConnectTime       : %.4f
+.rdata:00007FF619E69D10	0000001A	C	PlayerConfigToConnectTime
+.rdata:00007FF619E69F48	00000031	C	[FLog::JoinTimeLog] PlayerConfigureTime   : %.4f
+.rdata:00007FF619E6A9E0	0000003E	C	Attempting to send a Character request without a local Player
+.rdata:00007FF619E6AA68	00000012	C	[FLog::Player] %s
+.rdata:00007FF619E6AA80	00000027	C	[FLog::Player] Server Kick Message: %s
+.rdata:00007FF619E6CEC0	00000032	C	Client_SamplePlayer_Facs_AppPacketBytesSendPerSec
+.rdata:00007FF619E6CEF8	00000025	C	Client_SamplePlayer_Facs_CountPerSec
+.rdata:00007FF619E6CF90	00000029	C	Client_SamplePlayer_Facs_RecvCountPerSec
+.rdata:00007FF619E6CFC0	0000002D	C	Client_SamplePlayer_Facs_RevOutOfOrderPerSec
+.rdata:00007FF619E6CFF0	0000002A	C	Client_SamplePlayer_Facs_IngressBwPercent
+.rdata:00007FF619E6D020	00000028	C	Client_SamplePlayer_Ingress_BytesPerSec
+.rdata:00007FF619E6D048	0000002E	C	Client_SamplePlayer_Facs_Bandwidth_Percentage
+.rdata:00007FF619E6D078	00000027	C	Client_SamplePlayer_Egress_BytesPerSec
+.rdata:00007FF619E6D0A0	0000002C	C	Client_SamplePlayer_Physics_SendBytesPerSec
+.rdata:00007FF619E6D0D0	00000033	C	Client_SamplePlayer_Facs_AppPacketsBytesRecvPerSec
+.rdata:00007FF619E6D258	00000021	C	ClientSamplePlayerBandwidthStats
+.rdata:00007FF619E6DA98	00000013	C	Cannot get players
+.rdata:00007FF619E6DAC8	00000036	C	Cannot construct player information to send to server
+.rdata:00007FF619E6DBA0	0000003F	C	[DFLog::NetworkJoin] playerConnect connecting to server @ %f s
+.rdata:00007FF619E6F8C8	0000000C	C	PlayerCount
+.rdata:00007FF619E6F9D8	00000020	C	ServerBandwidthPlayerSampleRate
+.rdata:00007FF619E6FB20	00000026	C	ServerRakNetBandwidthPlayerSampleRate
+.rdata:00007FF619E6FB48	0000002C	C	ServerBandwidthPlayerSampleRateFacsOverride
+.rdata:00007FF619E71638	00000029	C	ServerDelayDisconnectOnPlayerMoveSeconds
+.rdata:00007FF619E71750	00000037	C	DetailedBandwidthStatsPlayerLotteryHundrethsPercentage
+.rdata:00007FF619E71F88	00000031	C	[FLog::Network] Replicator created for player %s
+.rdata:00007FF619E72060	0000000F	C	AddPlayerTrial
+.rdata:00007FF619E73980	0000005A	C	[DFLog::TeamCreateServerScriptChanges] RemotePlayer not found in Replicator - Non default
+.rdata:00007FF619E739E0	0000005C	C	[DFLog::TeamCreateServerScriptChanges] RemotePlayer not found in Replicator - Default value
+.rdata:00007FF619E753D0	0000000E	C	PlayerRemoved
+.rdata:00007FF619E755B0	00000010	C	DuplicatePlayer
+.rdata:00007FF619E755F8	0000000B	C	Playerless
+.rdata:00007FF619E758B8	0000002B	C	Player has been removed from the DataModel
+.rdata:00007FF619E75F90	0000000D	C	_PlayerTier_
+.rdata:00007FF619E76248	00000009	C	playerOS
+.rdata:00007FF619E76270	00000026	C	%s_ItemAvgTimeInQueueByPlayer_Tier_%d
+.rdata:00007FF619E76298	0000002A	C	%s_ItemAvgTimeInAllQueuesByPlayer_Tier_%d
+.rdata:00007FF619E76C58	0000000B	C	NumPlayers
+.rdata:00007FF619E77660	00000016	C	UpdatePlayerLocations
+.rdata:00007FF619E77FC0	0000001E	C	AtomicPlayerStarterGuiNoReset
+.rdata:00007FF619E788E0	00000015	C	FirstValidPlayerSkip
+.rdata:00007FF619E78928	00000010	C	ValidPlayerSkip
+.rdata:00007FF619E78938	00000010	C	FailedGetPlayer
+.rdata:00007FF619E78B50	0000003B	C	[FLog::Network] Players service requests player disconnect
+.rdata:00007FF619E78B90	0000002A	C	Player service requests player disconnect
+.rdata:00007FF619E79710	0000004A	C	[DFLog::ReplicationJoinBatchLog] Process Joins : Index: %d Install Player
+.rdata:00007FF619E79E78	00000017	C	Connected Players : %d
+.rdata:00007FF619E79E90	00000016	C	Pending Players : %zu
+.rdata:00007FF619E7B4F8	0000003D	C	NetworkFilterPlayerParentFilterExceptionHundredthsPercentage
+.rdata:00007FF619E7B538	00000030	C	ReportNetworkFilterPlayerParentFilterException2
+.rdata:00007FF619E7B568	00000032	C	NetworkFilterDeleteUnderPlayerHundrethsPercentage
+.rdata:00007FF619E7B6D8	0000001F	C	NetworkFilterDeleteUnderPlayer
+.rdata:00007FF619E7B870	0000001C	C	remotePlayer already exists
+.rdata:00007FF619E7B8C0	0000000F	C	ReceivedPlayer
+.rdata:00007FF619E7BA88	00000020	C	DebugFilterAllPlayerPropChanges
+.rdata:00007FF619E7BD70	00000045	C	[FLog::Network] ServerReplicator:InstallRemotePlayer - LoadCharacter
+.rdata:00007FF619E7BDB8	00000010	C	PlayerInstalled
+.rdata:00007FF619E7BF58	0000001A	C	Performing player install
+.rdata:00007FF619E7BFC0	00000024	C	Player \"%s\" appears to be spamming 
+.rdata:00007FF619E7C038	00000013	C	FailedCreatePlayer
+.rdata:00007FF619E7C150	00000040	C	[FLog::Error] RequestCharacter - could not resolve RemotePlayer
+.rdata:00007FF619E7C190	00000029	C	Couldn't resolve remotePlayer %s from %s
+.rdata:00007FF619E7C2C0	0000002B	C	[DFLog::NetworkJoin] Player Creation Error
+.rdata:00007FF619E7CE40	0000003C	C	[DFLog::NetworkPauseLogging] Player replication focus is %s
+.rdata:00007FF619E7CEB8	0000002D	C	[DFLog::NetworkPauseLogging] No player found
+.rdata:00007FF619E7D300	0000004B	C	[DFLog::NetworkPauseLogging] Player is paused, but has no streaming focus.
+.rdata:00007FF619E7D6A0	00000047	C	[DFLog::NetworkPauseLogging] Last player pos translation squared: %.0f
+.rdata:00007FF619E808A0	0000000E	C	playerPresent
+.rdata:00007FF619E80AD0	00000013	C	PlayerGuiNullCheck
+.rdata:00007FF619E81668	00000016	C	StreamJobStopNoPlayer
+.rdata:00007FF619E81D68	00000024	C	LegacyRedundantPlayerCheckAnalytics
+.rdata:00007FF619E81F88	0000002C	C	Server_LegacyRedundantPlayerCheck_Reachable
+.rdata:00007FF619E81FB8	0000002C	C	Client_LegacyRedundantPlayerCheck_Reachable
+.rdata:00007FF619E82090	00000025	C	Received unexpected player instance!
+.rdata:00007FF619E826B0	00000019	C	LogTotalPlayersOnJoinFix
+.rdata:00007FF619E827B0	00000009	C	playerId
+.rdata:00007FF619E827D0	00000019	C	EncryptStringForPlayerId
+.rdata:00007FF619E82858	0000002D	C	PromptNativePurchaseRequestedWithLocalPlayer
+.rdata:00007FF619E829F0	00000018	C	ConfirmPlayerMembership
+.rdata:00007FF619E82D08	0000002E	C	PlayerChatTranslationSettingsLocaleSetFromLua
+.rdata:00007FF619E82D38	00000029	C	PlayerExperienceSettingsLocaleSetFromLua
+.rdata:00007FF619E82E28	00000007	C	Player
+.rdata:00007FF619E83530	00000029	C	TextScraperClientMessageWithPlayerSignal
+.rdata:00007FF619E83848	0000002E	C	VoiceChatPlayerMuteStateChangedClientToServer
+.rdata:00007FF619E84AB0	0000000A	C	GetPlayer
+.rdata:00007FF619E85938	00000012	C	playerCountryCode
+.rdata:00007FF619E85950	00000009	C	playerOs
+.rdata:00007FF619E86EB8	00000027	C	Chat message from unknown Player %s %s
+.rdata:00007FF619E88888	00000017	C	ServerCopiesPlayerGui3
+.rdata:00007FF619E91040	0000002D	C	UnequipTools could not find Player backpack!
+.rdata:00007FF619E911A0	0000002D	C	You can only play emotes for the LocalPlayer
+.rdata:00007FF619E912F0	00000009	C	IsPlayer
+.rdata:00007FF619E91370	00000009	C	isPlayer
+.rdata:00007FF619E93DD0	00000073	C	[FLog::WrapLogChannel] WrapDeformerContext %p, ignore WrapLayer %s (c:%d) Reason: not connected to any WrapTargets
+.rdata:00007FF619E943A0	0000004F	C	[FLog::WrapLogChannel] WrapDeformerContext %p, WrapLayer %s, points matched %d
+.rdata:00007FF619E94618	0000001A	C	DebugWrapLayerTransparent
+.rdata:00007FF619E94658	0000000A	C	WrapLayer
+.rdata:00007FF619E94A58	00000037	C	DynamicHeadRenderedPlayerEventThrottleHundrethsPercent
+.rdata:00007FF619E94AA8	0000001A	C	dynamicHeadRenderedPlayer
+.rdata:00007FF619E95790	00000058	C	[DFLog::TrackScriptEditorLocking] Players::backendProcessing is TRUE. Players exist: %s
+.rdata:00007FF619E961C0	0000009C	C	[FLog::Error] [AvatarChatService::pollClientFeatures] Not supported on server - use AvatarChatService::pollClientFeatures(std::shared_ptr<Player>) instead.
+.rdata:00007FF619E96260	000000D3	C	[FLog::Error] [AvatarChatService::getClientFeaturesAsync] Not supported on server - use AvatarChatService::getClientFeaturesAsync(std::shared_ptr<Player>, std::function<void(AvatarChatServiceFeature)>) instead.
+.rdata:00007FF619E96390	00000033	C	FacialAnimationStreamingServiceUsePlayerThrottling
+.rdata:00007FF619E96730	00000075	C	[FacialAnimationStreamingServiceV2::resolveStateForUser] Failed to resolve player - not connected to current server.
+.rdata:00007FF619E967B0	0000005C	C	[FacialAnimationStreamingServiceV2::resolveStateForUser] Failed to resolve players service.
+.rdata:00007FF619E96810	00000060	C	[FacialAnimationStreamingServiceV2::resolveStateForUser] Failed to resolve player - invalid id.
+.rdata:00007FF619E96870	00000059	C	[FacialAnimationStreamingServiceV2::resolveStateForUser] Failed to resolve local player.
+.rdata:00007FF619E97410	0000003D	C	[FLog::DragDetectorLog] player removing,  calling endDragNow
+.rdata:00007FF619E97680	0000005F	C	[FLog::DragDetectorLog]      player shutdown message, DragDetector calling endDragNowAndCancel
+.rdata:00007FF619E97930	00000041	C	[FLog::DragDetectorLog] DragDetector::fireDragStart: player = {}
+.rdata:00007FF619E97A08	00000028	C	DragDetectorsPermitMutiplePlayersToDrag
+.rdata:00007FF619E97B80	0000002E	C	DragDetectorIsEnabledForPlayerChecksIsEnabled
+.rdata:00007FF619E97CE0	00000040	C	[FLog::DragDetectorLog] DragDetector::fireDragStart: NIL player
+.rdata:00007FF619E97D70	00000072	C	[FLog::DragDetectorLog]      getIsRunningWithoutLocalPlayer = {}, isEditModeDmInStudio = {}, productIsStudio = {}
+.rdata:00007FF619E97FA0	0000007D	C	[FLog::DragDetectorLog]             isEnabledForPlayer returning FALSE! No tug-of-wars!  for player {} and draggingPlayer {}
+.rdata:00007FF619E98178	0000003F	C	[FLog::DragDetectorLog]       isEnabledForPlayer failed for {}
+.rdata:00007FF619E981C0	0000004A	C	[FLog::DragDetectorLog] DragDetector::dragStart is enabled for nil player
+.rdata:00007FF619E98210	00000049	C	[FLog::DragDetectorLog] DragDetector::dragStart is enabled for player {}
+.rdata:00007FF619E99410	0000003F	C	[FLog::Safety] takeScreenshot() failed to find Players service
+.rdata:00007FF619E99B20	00000054	C	[FLog::Error] AvatarCreationService::sendUGCValidationResultToPlayer DataModel null
+.rdata:00007FF619E9AE70	0000005F	C	[FLog::HumanoidFloorProcess] Check platform subscription Player Mass: %4.4f, Floor Mass: %4.4f
+.rdata:00007FF619EA12A0	00000015	C	StarterPlayerScripts
+.rdata:00007FF619EA2180	00000057	C	Instance %s should reference an Accoutrement Instance which has a WrapLayer descendent
+.rdata:00007FF619EA21E0	00000059	C	Asset id %lld should reference an Accoutrement Instance which has a WrapLayer descendent
+.rdata:00007FF619EA3480	00000012	C	WrapLayerAutoSkin
+.rdata:00007FF619EA3608	00000013	C	WrapLayerDebugMode
+.rdata:00007FF619EA6550	0000001C	C	generate WrapLayer HSR data
+.rdata:00007FF619EA6F30	00000010	C	GetWithPlayerId
+.rdata:00007FF619EA8EA0	00000047	C	ChatInputBarConfiguration.TextBox should be a descendant of PlayerGui.
+.rdata:00007FF619EA9BD0	00000011	C	playerAvatarType
+.rdata:00007FF619EAA418	0000001B	C	Could not get local player
+.rdata:00007FF619EAFE00	00000017	C	LocalPlayerStudsOffset
+.rdata:00007FF619EB5800	0000001E	C	player_leaving_current_server
+.rdata:00007FF619EB717C	00000007	C	player
+.rdata:00007FF619EB7918	00000016	C	Unable to get player!
+.rdata:00007FF619EB7A00	00000023	C	Unable to get the players service!
+.rdata:00007FF619EC1750	00000026	C	CrashUploadToBacktraceXboxPlayerToken
+.rdata:00007FF619EC18A8	00000025	C	CrashUploadToBacktraceMacPlayerToken
+.rdata:00007FF619EC1A38	00000029	C	CrashUploadToBacktraceWindowsPlayerToken
+.rdata:00007FF619ECB9A0	00000047	C	rbxasset://textures/ui/LuaApp/graphic/player-tile-background-light.png
+.rdata:00007FF619ECC160	00000046	C	rbxasset://textures/ui/LuaApp/graphic/player-tile-background-dark.png
+.rdata:00007FF619ECF850	0000001B	C	FmodUseVoiceDriverIxpLayer
+.rdata:00007FF619ECFA20	0000001A	C	NewUserOnboardingIxpLayer
+.rdata:00007FF619ECFA68	00000019	C	NewUserStartPageIxpLayer
+.rdata:00007FF619ECFAA0	00000011	C	RealtimeIxpLayer
+.rdata:00007FF619ECFB28	00000019	C	AdTeleportPromptIxpLayer
+.rdata:00007FF619ECFB60	00000014	C	MoodDampingIxpLayer
+.rdata:00007FF619ECFBB8	0000000F	C	FTUXDHIxpLayer
+.rdata:00007FF619ECFC48	00000011	C	PlayerApp.Signup
+.rdata:00007FF619ECFC80	00000010	C	PlayerApp.Login
+.rdata:00007FF619ECFCC0	0000001E	C	IXPTestConsoleSignupLayerName
+.rdata:00007FF619ECFD08	00000011	C	CLI52064IxpLayer
+.rdata:00007FF619ED10D0	00000015	C	DisconnectPlayerless
+.rdata:00007FF619ED1370	0000001A	C	DisconnectDuplicatePlayer
+.rdata:00007FF619ED3D70	00000022	C	/v1/avatar/set-player-avatar-type
+.rdata:00007FF619ED70F0	00000024	C	LuaAppGameSearchPlayerSuggestion376
+.rdata:00007FF619ED86E0	00000018	C	UserVRPlayerScriptsMisc
+.rdata:00007FF619ED88A0	0000002C	C	UserUpdatePlayerScriptsTouchControlsEnabled
+.rdata:00007FF619ED8F30	00000020	C	PlayerShutdownLuaTimeoutSeconds
+.rdata:00007FF619ED94D0	00000027	C	GoogleAnalyticsAccountPropertyIDPlayer
+.rdata:00007FF619EDA5A8	00000039	C	[FLog::CloseDataModel] Resetting starterPlayerService...
+.rdata:00007FF619EDAA70	0000002C	C	[FLog::CloseDataModel] Removing all players
+.rdata:00007FF619EDB498	00000033	C	[1] Failed to get policy info for player async: %s
+.rdata:00007FF619EDB6F0	0000000D	C	PlayerAdorns
+.rdata:00007FF619EDC280	0000003E	C	[FLog::CloseDataModel] Clearing StarterPlayer -- %d Instances
+.rdata:00007FF619EDD048	0000000E	C	Player Radius
+.rdata:00007FF619EDD7A8	00000011	C	stats/numplayers
+.rdata:00007FF619EDE6C8	0000000D	C	PlayerHeight
+.rdata:00007FF619EDE970	00000023	C	Player:IsInGroup failed because %s
+.rdata:00007FF619EDE998	00000028	C	Player:GetRankInGroup failed because %s
+.rdata:00007FF619EDEA00	00000028	C	Player:GetRoleInGroup failed because %s
+.rdata:00007FF619EDEA50	0000001B	C	GetPlayerGroupRolesSizeCap
+.rdata:00007FF619EE17E0	00000020	C	FmodUseVoiceDriverIxpLayerParam
+.rdata:00007FF619EE2FD8	00000018	C	TeleportVIPLayerNameIXP
+.rdata:00007FF619EE3148	00000020	C	GroupTeleportFirstPlayerArrived
+.rdata:00007FF619EE3238	0000001E	C	TeleportVIPPlayerPassThrough2
+.rdata:00007FF619EE32C0	0000001C	C	VIPTeleportLocalPlayerCheck
+.rdata:00007FF619EE3E70	0000004F	C	TeleportService:TeleportPartyAsync error: The player[%lld] with wrong session.
+.rdata:00007FF619EE3F10	00000052	C	TeleportService:TeleportPartyAsync error: A specified Player is not a valid User.
+.rdata:00007FF619EE42B8	0000000B	C	playerIds=
+.rdata:00007FF619EE42F0	0000004F	C	reserved-servers-service/get-player-place-instance?currentPlaceId={}&userId={}
+.rdata:00007FF619EE43D0	0000003B	C	TeleportToPrivateServer must be passed an array of players
+.rdata:00007FF619EE4410	0000004C	C	TeleportService::TeleportToPrivateServer must be passed an array of players
+.rdata:00007FF619EE4460	0000004D	C	TeleportService:TeleportPartyAsync error: Must be passed an array of players
+.rdata:00007FF619EE4550	00000040	C	TeleportService:TeleportPartyAsync error: Players Service null.
+.rdata:00007FF619EE4590	00000061	C	TeleportService:TeleportPartyAsync error: The player[%lld] already in another teleporting party.
+.rdata:00007FF619EE4600	00000064	C	TeleportService:TeleportPartyAsync error: Supplied Player is not valid. Invalid instance name is %s
+.rdata:00007FF619EE4670	00000048	C	TeleportService:TeleportPartyAsync error: Supplied Player is not valid.
+.rdata:00007FF619EE47A0	00000066	C	Passing Character instance into teleport functions is deprecated. Please use Player instance instead.
+.rdata:00007FF619EE4808	0000001C	C	Invalid player to teleport.
+.rdata:00007FF619EE48B0	00000051	C	TeleportService::GetPlayerPlaceInstanceAsync can only be called from the server.
+.rdata:00007FF619EE5480	0000004E	C	TeleportPartyAsync can't find the player[%lld], the player may left the game.
+.rdata:00007FF619EE54D0	00000045	C	TeleportService:TeleportPartyAsync error: A playerId isn't a number.
+.rdata:00007FF619EE5520	0000004F	C	TeleportService:TeleportPartyAsync error: Unknown error when teleport players.
+.rdata:00007FF619EE6AE0	0000000B	C	PlayerList
+.rdata:00007FF619EE6D48	00000016	C	PlayerInitiatedDialog
+.rdata:00007FF619EE70E0	00000010	C	MultiplePlayers
+.rdata:00007FF619EE70F0	0000000D	C	SinglePlayer
+.rdata:00007FF619EE77C0	0000000D	C	PlayerChoice
+.rdata:00007FF619EE7CB8	00000011	C	PlayerNameplates
+.rdata:00007FF619EE8AD8	00000014	C	PersistentPerPlayer
+.rdata:00007FF619EE8C58	0000000E	C	PlayerActions
+.rdata:00007FF619EE8C70	0000001F	C	PlayerCharacterDestroyBehavior
+.rdata:00007FF619EE8CF0	0000000F	C	PlayerChatType
+.rdata:00007FF619EEAA68	0000000C	C	AudioPlayer
+.rdata:00007FF619EEAAA0	0000000E	C	BasePlayerGui
+.rdata:00007FF619EEB280	00000012	C	PlayerViewService
+.rdata:00007FF619EEB298	0000000C	C	PlayerMouse
+.rdata:00007FF619EEB848	0000000E	C	StarterPlayer
+.rdata:00007FF619EEC550	00000011	C	PlayerToHideFrom
+.rdata:00007FF619EEE2C0	0000000B	C	numPlayers
+.rdata:00007FF619EEE2D0	0000000C	C	localPlayer
+.rdata:00007FF619EEE3E0	00000017	C	PlayerEmulationEnabled
+.rdata:00007FF619EEE480	00000011	C	PreferredPlayers
+.rdata:00007FF619EEE498	00000013	C	MaxPlayersInternal
+.rdata:00007FF619EEE4B0	0000000B	C	MaxPlayers
+.rdata:00007FF619EEE4C0	0000000C	C	LocalPlayer
+.rdata:00007FF619EEE508	00000019	C	PreferredPlayersInternal
+.rdata:00007FF619EEE800	00000016	C	CloudEditPlayerActive
+.rdata:00007FF619EEEA48	00000019	C	HidePlayerGuiForCaptures
+.rdata:00007FF619EEEFB8	00000016	C	ResetPlayerGuiOnSpawn
+.rdata:00007FF619EEFBA8	00000010	C	NumberOfPlayers
+.rdata:00007FF619EF0328	0000001B	C	FirePlayerProgressionEvent
+.rdata:00007FF619EF1370	00000011	C	SetPlayerIsUsing
+.rdata:00007FF619EF1388	00000012	C	GetCurrentPlayers
+.rdata:00007FF619EF1788	00000018	C	InspectPlayerFromUserId
+.rdata:00007FF619EF17A0	00000025	C	InspectPlayerFromHumanoidDescription
+.rdata:00007FF619EF1838	0000001F	C	InspectPlayerFromUserIdWithCtx
+.rdata:00007FF619EF2100	00000017	C	PlayerCanMakePurchases
+.rdata:00007FF619EF2128	00000024	C	PromptNativePurchaseWithLocalPlayer
+.rdata:00007FF619EF23F0	00000017	C	GetTranslatorForPlayer
+.rdata:00007FF619EF2760	00000014	C	AddPersistentPlayer
+.rdata:00007FF619EF27B8	00000015	C	GetPersistentPlayers
+.rdata:00007FF619EF2818	00000017	C	RemovePersistentPlayer
+.rdata:00007FF619EF3108	0000000B	C	getPlayers
+.rdata:00007FF619EF3138	00000013	C	SetLocalPlayerInfo
+.rdata:00007FF619EF3178	00000008	C	players
+.rdata:00007FF619EF3180	00000014	C	playerFromCharacter
+.rdata:00007FF619EF3358	0000000B	C	GetPlayers
+.rdata:00007FF619EF3368	00000017	C	GetPlayerFromCharacter
+.rdata:00007FF619EF3380	00000012	C	GetPlayerByUserId
+.rdata:00007FF619EF3398	00000012	C	CreateLocalPlayer
+.rdata:00007FF619EF33C0	00000011	C	ResetLocalPlayer
+.rdata:00007FF619EF36B8	00000014	C	UpdatePlayerBlocked
+.rdata:00007FF619EF3DA8	0000001B	C	GetLocalPlayerTeleportData
+.rdata:00007FF619EF4CB8	00000022	C	CreatePlaceInPlayerInventoryAsync
+.rdata:00007FF619EF5280	0000001C	C	GetTranslatorForPlayerAsync
+.rdata:00007FF619EF5500	0000001F	C	GetCountryRegionForPlayerAsync
+.rdata:00007FF619EF5570	0000000E	C	PlayerHasPass
+.rdata:00007FF619EF5760	0000001B	C	FilterStringForPlayerAsync
+.rdata:00007FF619EF5848	0000001C	C	GetPlayerPlaceInstanceAsync
+.rdata:00007FF619EF5A58	0000001C	C	GetPolicyInfoForPlayerAsync
+.rdata:00007FF619EF5CC0	00000011	C	PlayerOwnsBundle
+.rdata:00007FF619EF5CD8	00000010	C	PlayerOwnsAsset
+.rdata:00007FF619EF64B0	00000026	C	InspectPlayerFromUserIdWithCtxRequest
+.rdata:00007FF619EF64D8	0000002C	C	InspectPlayerFromHumanoidDescriptionRequest
+.rdata:00007FF619EF6AB0	00000026	C	NativePurchaseFinishedWithLocalPlayer
+.rdata:00007FF619EF71A8	0000000F	C	PlayerRemoving
+.rdata:00007FF619EF71B8	00000010	C	PlayerRejoining
+.rdata:00007FF619EF73A0	0000000C	C	PlayerAdded
+.rdata:00007FF619EF7408	00000018	C	PlayerMembershipChanged
+.rdata:00007FF619EF7420	00000014	C	PlayerDisconnecting
+.rdata:00007FF619EF7438	00000011	C	PlayerConnecting
+.rdata:00007FF619EF7450	0000000E	C	PlayerChatted
+.rdata:00007FF619EF7460	00000026	C	VoiceChatplayerMuteStatusChangedEvent
+.rdata:00007FF619EF76E0	0000002E	C	VoiceChatPlayerMuteStateChangedServerToClient
+.rdata:00007FF619EF78B8	0000001F	C	LocalPlayerArrivedFromTeleport
+.rdata:00007FF619EF8420	000000B1	C	MarketplaceService:PromptGamePassPurchase was called from a local script, but was not called on the local player. Local scripts can only call this function on the local player.
+.rdata:00007FF619EF8570	00000097	C	MarketplaceService:PromptProductPurchase called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619EF8860	0000004E	C	 was called on a guest, please use this call only on players with an account.
+.rdata:00007FF619EF8900	0000004C	C	MarketplaceService:PromptBundlePurchase: unable to get the Players service.
+.rdata:00007FF619EF8950	00000097	C	MarketplaceService:PromptBundlePurchase: called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619EF8A00	00000021	C	 player should be of type Player
+.rdata:00007FF619EF8A48	0000001A	C	EnablePlayerOwnsBundleApi
+.rdata:00007FF619EF8B20	0000001E	C	NativePurchaseWithLocalPlayer
+.rdata:00007FF619EF8ED0	0000007F	C	MarketplaceService:PlayerOwnsBundle() second argument is not a valid bundleId (supplied bundleId was less than or equal to 0).
+.rdata:00007FF619EF8F50	00000042	C	MarketplaceService:PlayerOwnsBundle API call is not yet released.
+.rdata:00007FF619EF8F98	00000012	C	PlayerOwnsAsset()
+.rdata:00007FF619EF8FB0	0000006F	C	MarketplaceService:PlayerOwnsAsset() second argument is not a valid assetId (supplied assetId was less than 0)
+.rdata:00007FF619EF9040	00000045	C	MarketplaceService:PlayerCanMakePurchases() argument is not a player
+.rdata:00007FF619EF9088	00000013	C	PlayerOwnsBundle()
+.rdata:00007FF619EF9340	00000048	C	MarketPlaceService::PlayerOwnsAsset failed because the response was nil
+.rdata:00007FF619EF96E0	00000090	C	MarketplaceService:PromptPurchase called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619EF99B0	0000004E	C	Can only call PromptSubscriptionPurchase from LocalScript on the local player
+.rdata:00007FF619EF9D00	00000025	C	Error fetching player membership: %s
+.rdata:00007FF619EF9E38	00000026	C	First argument to %s must be a player
+.rdata:00007FF619EF9EE0	00000096	C	MarketplaceService:PromptNativePurchase called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619EFA0F0	00000040	C	MarketPlace:UserOwnsGamePassAsync() can only query local player
+.rdata:00007FF619EFA130	00000049	C	Can only call PromptPremiumPurchase from LocalScript on the local player
+.rdata:00007FF619EFA1D0	00000039	C	First argument to PromptPremiumPurchase must be a Player
+.rdata:00007FF619EFA2D0	0000009A	C	MarketplaceService:PromptThirdPartyPurchase called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619EFA3D0	0000003A	C	Player disconnected from game before purchase completion.
+.rdata:00007FF619EFBF10	00000028	C	Server: broadcastMeshFullUpdateToPlayer
+.rdata:00007FF619EFBF38	0000002C	C	Client: RequestMeshFullUpdateForLocalPlayer
+.rdata:00007FF619EFC800	00000057	C	Calling GuiService:Select() on an instance that is not a descendant of a BasePlayerGui
+.rdata:00007FF619EFCC10	00000062	C	Cannot set GamepadService.EnableGamepadCursor on %s because it is not a descendant of a PlayerGui
+.rdata:00007FF619EFDC38	00000027	C	PlayerCharacterDestroyBehaviorProperty
+.rdata:00007FF619EFDCB8	0000002D	C	PlayerCharacterDestroyBehaviorDefaultEnabled
+.rdata:00007FF619F060C8	00000039	C	[DFLog::AsyncCodecTrace] Set to kPlayerStateBuffering #1
+.rdata:00007FF619F06690	00000043	C	[DFLog::AsyncCodecTrace] Set to kPlayerStateReady, currentPtsMs:%d
+.rdata:00007FF619F06970	00000032	C	[DFLog::AsyncCodecTrace] Set to kPlayerStateEnded
+.rdata:00007FF619F06EA8	00000039	C	[DFLog::AsyncCodecTrace] Set to kPlayerStateBuffering #2
+.rdata:00007FF619F07C98	0000003C	C	PersistentPerPlayer API can only be called from the Server.
+.rdata:00007FF619F07CD8	0000002E	C	PersistentPerPlayer player isn't in datamodel
+.rdata:00007FF619F07EA8	00000036	C	PersistentPerPlayer player not allowed for Workspace.
+.rdata:00007FF619F07EE0	0000002A	C	PersistentPerPlayer player not specified.
+.rdata:00007FF619F089F8	0000000F	C	playerInstance
+.rdata:00007FF619F09438	00000018	C	ReplicateCreateToPlayer
+.rdata:00007FF619F095E0	0000001E	C	CreatePlacePerPlayerPerMinute
+.rdata:00007FF619F09E80	00000046	C	createPlaceInPlayerInventoryAsync has been removed as of Release 471.
+.rdata:00007FF619F0C310	00000009	C	player_x
+.rdata:00007FF619F0C320	00000009	C	player_y
+.rdata:00007FF619F0C330	00000009	C	player_z
+.rdata:00007FF619F0D940	0000007C	C	Chat:FilterStringForPlayer is deprecated. Move to FilterStringAsync or FilterStringForBroadcast depending on your use case.
+.rdata:00007FF619F0D9C0	0000003F	C	ChatService:FilterString called without a valid Player object.
+.rdata:00007FF619F0DB18	0000003F	C	ChatService::serverToClientFilterMessageHandler invalid player
+.rdata:00007FF619F0DB58	0000003F	C	[DFLog::ChatFiltering] FilterStringForPlayer:Success %lld \"%s\"
+.rdata:00007FF619F0DBF0	00000027	C	ChatService:FilterStringForPlayerAsync
+.rdata:00007FF619F0DF10	0000003D	C	[DFLog::ChatFiltering] FilterStringForPlayer:Error %lld \"%s\"
+.rdata:00007FF619F0E3D8	00000023	C	Cannot filter for detached player.
+.rdata:00007FF619F0E400	0000001F	C	Cannot filter for null player.
+.rdata:00007FF619F0E4D0	00000061	C	[FLog::Error] ChatService::onPlayerAdded Error 4: Cannot parse mass update json[%s] response, %s
+.rdata:00007FF619F0E5C0	00000013	C	No Players service
+.rdata:00007FF619F0E660	00000049	C	[FLog::Error] ChatService::onPlayerAdded Error 2: response body is empty
+.rdata:00007FF619F0E6B0	00000035	C	[FLog::Error] ChatService::onPlayerAdded Error 1: %d
+.rdata:00007FF619F0E6F0	0000005E	C	[FLog::Error] ChatService::onPlayerAdded Error 3: Cannot parse mass update json[%s] response!
+.rdata:00007FF619F0E888	0000003C	C	ChatService:FilterString must be called with a valid player
+.rdata:00007FF619F0EAA8	00000016	C	Player does not exist
+.rdata:00007FF619F0EAC0	00000039	C	[DFLog::ChatFiltering] FilterStringForPlayer() %lld \"%s\"
+.rdata:00007FF619F0EBC0	0000003F	C	ChatService:FilterString must be called with two valid players
+.rdata:00007FF619F0FA60	00000063	C	VoiceChatService:IsVoiceEnabledForUserIdAsync() the player must be connected to the current server
+.rdata:00007FF619F0FE80	0000004E	C	VoiceChatService:IsVoiceEnabledForUserIdAsync() Players service not available
+.rdata:00007FF619F10948	00000015	C	VideoPlayerViewPortY
+.rdata:00007FF619F109A0	00000015	C	VideoPlayerViewPortX
+.rdata:00007FF619F10C00	0000002C	C	DataStoreRemoveVersionPerPlayerRequestLimit
+.rdata:00007FF619F10DA8	00000029	C	DataStoreOrderedGetPerPlayerRequestLimit
+.rdata:00007FF619F10E00	00000029	C	DataStoreGetVersionPerPlayerRequestLimit
+.rdata:00007FF619F10E30	00000023	C	DataStoreListPerPlayerRequestLimit
+.rdata:00007FF619F10ED8	0000001F	C	DataStorePerPlayerRequestLimit
+.rdata:00007FF619F10F20	00000026	C	DataStoreRefetchPerPlayerRequestLimit
+.rdata:00007FF619F10F48	00000029	C	DataStoreOrderedSetPerPlayerRequestLimit
+.rdata:00007FF619F11FC8	00000039	C	The player with userId=%lld is not present at the moment
+.rdata:00007FF619F120D8	0000002F	C	UserHasBadgeAsync: can only query local player
+.rdata:00007FF619F126D0	00000043	C	[FLog::ExperienceAuthService] Player does not exist in experience.
+.rdata:00007FF619F12718	0000003D	C	[FLog::ExperienceAuthService] Failed to get Players service.
+.rdata:00007FF619F128B8	0000003A	C	[FLog::ExperienceAuthService] Player instance is invalid.
+.rdata:00007FF619F128F8	00000037	C	[FLog::ExperienceAuthService] Player instance is null.
+.rdata:00007FF619F13A00	00000093	C	SocialService:CanSendCallInviteAsync called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619F13B70	00000043	C	SocialService:PromptPhoneBook argument 1 should be a Player object
+.rdata:00007FF619F13CC0	0000008C	C	SocialService:PromptPhoneBook called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619F13E30	00000093	C	SocialService:CanSendGameInviteAsync called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619F13F70	0000008D	C	SocialService:PromptGameInvite called from a local script, but not called on a local player. Local scripts can only prompt the local player.
+.rdata:00007FF619F14050	00000044	C	SocialService:PromptGameInvite argument 1 should be a Player object
+.rdata:00007FF619F15488	0000003E	C	[DFLog::FriendServiceCache] FriendService:PlayerRemoving %lld
+.rdata:00007FF619F154C8	0000003B	C	[DFLog::FriendServiceCache] FriendService:PlayerAdded %lld
+.rdata:00007FF619F15900	00000034	C	AnalyticsServiceFiredEventsBudgetPerPlayerPerMinute
+.rdata:00007FF619F15F98	00000037	C	AnalyticsService: player must be a child of 'Players'.
+.rdata:00007FF619F15FD0	00000032	C	AnalyticsService: player must be a Player object.
+.rdata:00007FF619F16258	00000011	C	_Player_Teleport
+.rdata:00007FF619F16270	00000023	C	_PlayerPurchase_GamePass_Succeeded
+.rdata:00007FF619F16298	00000023	C	_PlayerPurchase_GamePass_Initiated
+.rdata:00007FF619F162C0	00000025	C	_PlayerPurchase_DevProduct_Succeeded
+.rdata:00007FF619F16330	0000000D	C	_Player_Join
+.rdata:00007FF619F16398	00000025	C	_PlayerPurchase_DevProduct_Initiated
+.rdata:00007FF619F163C0	00000020	C	_PlayerPurchase_Asset_Succeeded
+.rdata:00007FF619F163E0	00000020	C	_PlayerPurchase_Asset_Initiated
+.rdata:00007FF619F16400	0000000E	C	_Player_Leave
+.rdata:00007FF619F164A0	0000001C	C	_FirePlayerProgressionEvent
+.rdata:00007FF619F177E0	00000032	C	HttpRbxApiRequestsPerMinutePerPlayerInServerLimit
+.rdata:00007FF619F17860	00000011	C	playerWhoHovered
+.rdata:00007FF619F17878	00000011	C	playerWhoClicked
+.rdata:00007FF619F178E0	00000011	C	playerWhoDragged
+.rdata:00007FF619F1A380	00000041	C	UGCValidationService::startUgcValidation no player was provided.
+.rdata:00007FF619F1BFA0	00000013	C	Not a valid Player
+.rdata:00007FF619F1C3F8	00000017	C	PlayerNetworkBandwidth
+.rdata:00007FF619F1C518	0000003B	C	InstanceId is not currently supported for multiple players
+.rdata:00007FF619F1C630	00000026	C	Invalid list of players for teleport.
+.rdata:00007FF619F1C738	00000038	C	[FLog::Teleport] Teleporting a single player Failed: %s
+.rdata:00007FF619F1C7A8	00000031	C	[FLog::Teleport] Unable to cast teleport player.
+.rdata:00007FF619F1C880	0000002C	C	[FLog::Teleport] Teleport players is empty.
+.rdata:00007FF619F1C8B0	0000002B	C	[FLog::Teleport] Teleport players is null.
+.rdata:00007FF619F1D860	0000002B	C	Can only use setPlayerIsUsing from backend
+.rdata:00007FF619F1D8F8	00000029	C	Player object expected as first argument
+.rdata:00007FF619F1E150	0000004B	C	Team:GetPlayers() failed because team must be a child of the Teams service
+.rdata:00007FF619F1E720	00000013	C	playerWhoTriggered
+.rdata:00007FF619F1E770	0000000B	C	playerFrom
+.rdata:00007FF619F1E780	00000009	C	playerTo
+.rdata:00007FF619F1E7F0	00000012	C	playerToFilterFor
+.rdata:00007FF619F20240	00000011	C	requestingPlayer
+.rdata:00007FF619F20F70	00000008	C	Player 
+.rdata:00007FF619F210E8	00000038	C	InvokeClient: player %s must be a child of game.Players
+.rdata:00007FF619F21120	00000036	C	InvokeClient: player argument must be a Player object
+.rdata:00007FF619F213E0	00000034	C	FireClient: player argument must be a Player object
+.rdata:00007FF619F23F08	0000001A	C	PublishPerPlayerPerMinute
+.rdata:00007FF619F23F98	00000017	C	SubscriptionsPerPlayer
+.rdata:00007FF619F24300	00000058	C	MessagingService:SubscribeAsync(): Too many subscriptions based on the current players.
+.rdata:00007FF619F249D8	00000014	C	No player specified
+.rdata:00007FF619F249F0	0000003B	C	[DFLog::PlayerViewServiceTrace] updateDeviceCFrame %s %llu
+.rdata:00007FF619F24A30	0000001A	C	Players service not found
+.rdata:00007FF619F24A70	00000036	C	[DFLog::PlayerViewServiceTrace] replicateDeviceCFrame
+.rdata:00007FF619F24AB0	00000041	C	[DFLog::PlayerViewServiceTrace] onCameraCFrameReplicationRequest
+.rdata:00007FF619F24AF8	00000037	C	[DFLog::PlayerViewServiceTrace] subscribeToTrackerData
+.rdata:00007FF619F24B30	0000003B	C	[DFLog::PlayerViewServiceTrace] unsubscribeFromTrackerData
+.rdata:00007FF619F24B70	00000015	C	EnablePlayerViewApi2
+.rdata:00007FF619F24B88	00000014	C	EnablePlayerViewApi
+.rdata:00007FF619F24BA0	00000023	C	EnablePlayerViewRemoteReplication3
+.rdata:00007FF619F24BC8	00000017	C	PlayerViewServiceTrace
+.rdata:00007FF619F24BE0	0000001D	C	PlayerViewRemoteEventSupport
+.rdata:00007FF619F26470	00000018	C	AudioDeviceInput.Player
+.rdata:00007FF619F26550	00000019	C	AudioDeviceOutput.Player
+.rdata:00007FF619F26778	0000001F	C	AudioPlayerEndedReplicationFix
+.rdata:00007FF619F26798	00000014	C	AudioPlayerEndedFix
+.rdata:00007FF619F267D0	00000019	C	AudioPlayer.TimePosition
+.rdata:00007FF619F267F0	0000001A	C	AudioPlayer.PlaybackSpeed
+.rdata:00007FF619F26810	0000001B	C	AudioPlayer.PlaybackRegion
+.rdata:00007FF619F26830	00000017	C	AudioPlayer.LoopRegion
+.rdata:00007FF619F26848	0000000D	C	Audio Player
+.rdata:00007FF619F26858	00000014	C	AudioPlayer.AssetId
+.rdata:00007FF619F26870	00000016	C	AudioPlayer.IsPlaying
+.rdata:00007FF619F279D0	00000014	C	LocalPlayerGuiAdded
+.rdata:00007FF619F279E8	00000011	C	LocalPlayerAdded
+.rdata:00007FF619F28FC8	00000024	C	TrackPlayerTextScrapingMaxQueueSize
+.rdata:00007FF619F290D8	00000026	C	TrackPlayerIntegrityHundredthsPercent
+.rdata:00007FF619F29368	0000002B	C	TrackPlayerTextScraping_InvalidRemoteEvent
+.rdata:00007FF619F29398	0000002B	C	TrackPlayerTextScraping_QueueExceededCount
+.rdata:00007FF619F29408	00000026	C	TrackPlayerTextScraping_ArgParseError
+.rdata:00007FF619F29468	00000020	C	TextScraping_MissingPlayerError
+.rdata:00007FF619F29488	0000002D	C	TrackPlayerTextScraping_PlayerSenderMismatch
+.rdata:00007FF619F29690	00000042	C	This method cannot be called on the client for a non-local player
+.rdata:00007FF619F297A0	00000026	C	GetCountryRegionForPlayerAsync_Failed
+.rdata:00007FF619F297C8	00000029	C	GetCountryRegionForPlayerAsync failed %s
+.rdata:00007FF619F297F8	00000029	C	GetCountryRegionForPlayerAsync_Succeeded
+.rdata:00007FF619F29828	00000026	C	Empty value for player country region
+.rdata:00007FF619F29A18	0000000E	C	PlayerTrusted
+.rdata:00007FF619F29A98	00000010	C	PlayerUntrusted
+.rdata:00007FF619F29D60	0000002A	C	Invalid player and locale for translator!
+.rdata:00007FF619F29E68	00000026	C	TrackPlayerTextScraping_PlayerTrusted
+.rdata:00007FF619F29EF0	00000038	C	TrackPlayerTextScraping_InvalidMessageFromTrustedPlayer
+.rdata:00007FF619F29F28	00000038	C	TrackPlayerTextScraping_InvalidMessageFromUnknownPlayer
+.rdata:00007FF619F2A020	0000001A	C	Instance was not a player
+.rdata:00007FF619F2A040	00000015	C	Player cannot be nil
+.rdata:00007FF619F2A0C0	00000048	C	LocalizationService not found for player. Player might be disconnected.
+.rdata:00007FF619F2A110	00000043	C	This method cannot be called on the client for a non-local player.
+.rdata:00007FF619F2A158	00000012	C	Players not found
+.rdata:00007FF619F2A1D0	00000048	C	Publishing the game is required to use GetTranslatorForPlayerAsync API.
+.rdata:00007FF619F2A3A8	0000001B	C	TrustedPlayerEntryTooLarge
+.rdata:00007FF619F2A3C8	00000024	C	NotTrustedPlayerFailedToDeserialize
+.rdata:00007FF619F2A3F0	00000021	C	TrustedPlayerFailedToDeserialize
+.rdata:00007FF619F2A478	0000001E	C	NotTrustedPlayerEntryTooLarge
+.rdata:00007FF619F2A8A0	00000029	C	Player doesn't have any queued callbacks
+.rdata:00007FF619F2A9F8	00000035	C	GetPolicyInfoForPlayerAsync is called too many times
+.rdata:00007FF619F2AAE0	0000002E	C	PolicyService_PlayerHasEmptyApiParameterValue
+.rdata:00007FF619F2AB10	0000002F	C	PolicyService_PlayerCallbackQueueExceededCount
+.rdata:00007FF619F2AD20	0000002C	C	PolicyService_PlayerNotHavingQueuedCallback
+.rdata:00007FF619F2AE30	0000004E	C	PolicyService_SetGetPolicyInfoForPlayerAsyncDelegateError_NotInStudioPlayMode
+.rdata:00007FF619F2AFC8	00000032	C	PlayerPolicyHttpRequestReportThrottleHundredthPct
+.rdata:00007FF619F2B000	00000022	C	PlayerPolicyHttpRequestRetryTimes
+.rdata:00007FF619F2B1B8	0000000F	C	PlayerPolicies
+.rdata:00007FF619F2CB48	00000015	C	TotalPlayerCountJob_
+.rdata:00007FF619F2CC80	0000000F	C	playerMetadata
+.rdata:00007FF619F2CD80	0000003B	C	LocalizationTableAnalyticsSenderMaxPlayerIntegrityListSize
+.rdata:00007FF619F2D000	0000004B	C	LocalizationTableAnalyticsSenderFindTotalNumberOfPlayersPollingTimeSeconds
+.rdata:00007FF619F2D0C0	0000004C	C	LocalizationTableAnalyticsSenderFindTotalNumberOfPlayersBackoffScaleSeconds
+.rdata:00007FF619F2D438	00000034	C	IntegrityCheckedProcessorMaxPlayerIntegrityListSize
+.rdata:00007FF619F2D4C0	00000049	C	IntegrityCheckedProcessorReportPlayerIntegrityAnalyticsHundredthsPercent
+.rdata:00007FF619F2D878	0000000B	C	{player%d}
+.rdata:00007FF619F2DA00	0000002D	C	Players:%s() got invalid humanoidDescription
+.rdata:00007FF619F2DA30	00000070	C	Players:GetCharacterAppearanceInfoAsync() request was throttled. This API is limited to %d requests per minute.
+.rdata:00007FF619F2DAA0	00000026	C	Players:%s() could not load character
+.rdata:00007FF619F2DAC8	00000020	C	Players:%s() could not complete
+.rdata:00007FF619F2DAE8	0000003C	C	Players:GetCharacterAppearanceInfoAsync() failed because %s
+.rdata:00007FF619F2DB30	00000048	C	Players:GetCharacterAppearanceInfoAsync() failed to parse JSON response
+.rdata:00007FF619F2DB80	00000040	C	Players:GetCharacterAppearanceInfoAsync() cannot find DataModel
+.rdata:00007FF619F2DBC0	00000050	C	Players:GetCharacterAppearanceInfoAsync() must be called with a positive userId
+.rdata:00007FF619F2DC10	0000003D	C	Players:GetHumanoidDescriptionFromUserId() failed because %s
+.rdata:00007FF619F2DC50	00000048	C	Players:GetHumanoidDescriptioDescriptionFromUserId() could not complete
+.rdata:00007FF619F2DC98	0000003E	C	Players:GetHumanoidDescriptionFromUserId() got invalid userId
+.rdata:00007FF619F2DCE0	0000004F	C	Players:GetHumanoidDescriptionFromUserId() failed because of an unknown error.
+.rdata:00007FF619F2DD48	0000003B	C	Players:CreateHumanoidModelFromUserId() could not complete
+.rdata:00007FF619F2DD88	00000036	C	Players:CreateHumanoidFromUserId() got invalid userId
+.rdata:00007FF619F2DDC0	0000003A	C	Players:CreateHumanoidModelFromUserId() failed because %s
+.rdata:00007FF619F2DE00	00000012	C	NOT_A_REAL_PLAYER
+.rdata:00007FF619F2DE20	00000052	C	C:\\buildAgent\\work\\ci_ninja_client-x64_git\\Client\\App\\v8datamodel\\src\\Players.cpp
+.rdata:00007FF619F2DE90	00000051	C	Players:GetHumanoidDescriptionFromOutfitId() failed because of an unknown error.
+.rdata:00007FF619F2DEE8	0000003F	C	Players:GetHumanoidDescriptionFromOutfitId() failed because %s
+.rdata:00007FF619F2DF28	0000001C	C	Local player already exists
+.rdata:00007FF619F2DF50	00000043	C	Players:GetHumanoidDescriptionFromOutfitId() got negative outfitId
+.rdata:00007FF619F2DFA0	0000003F	C	createServerPlayer should only be called from the server side!
+.rdata:00007FF619F2DFF0	00000009	C	Player%d
+.rdata:00007FF619F2E0C8	00000013	C	PlayerDisconnected
+.rdata:00007FF619F2E120	0000001D	C	No local Player to chat from
+.rdata:00007FF619F2E140	00000036	C	Players::onRemoteSysStats disconnect not in the clist
+.rdata:00007FF619F2E230	00000032	C	Cannot kick a non-local Player from a LocalScript
+.rdata:00007FF619F2E278	00000010	C	PlayerConnected
+.rdata:00007FF619F2E300	00000021	C	PlayersOnChildAddedDuplicateKick
+.rdata:00007FF619F2E328	00000025	C	Players::onRemoteSysStats disconnect
+.rdata:00007FF619F2E480	0000001A	C	PlayerMaxSimOffsetInStuds
+.rdata:00007FF619F2E4A0	00000025	C	TrackPlayerTextScrapingCheckTimerSec
+.rdata:00007FF619F2E518	0000002D	C	UserIdPlayerNameBatchingMaxDelayMilliseconds
+.rdata:00007FF619F2E548	00000020	C	UserIdPlayerNameBatchingMaxSize
+.rdata:00007FF619F2E5F8	0000001B	C	DebugPlayerDisplayNameMock
+.rdata:00007FF619F2E638	00000021	C	RemoveLegacyRedundantPlayerCheck
+.rdata:00007FF619F2E7D0	0000002A	C	Players:GetNameFromUserIdAsync() failed: 
+.rdata:00007FF619F2E800	0000002A	C	Players:GetUserIdFromNameAsync() failed: 
+.rdata:00007FF619F2E870	00000018	C	PlayerLocationsEnricher
+.rdata:00007FF619F2E890	00000050	C	Players:GetCharacterAppearanceAsync() Error loading character appearance %s: %s
+.rdata:00007FF619F2E8E0	00000038	C	Players:GetCharacterAppearanceAsync() failed because %s
+.rdata:00007FF619F2E918	00000037	C	Players:GetCharacterAppearanceAsync() unexpected error
+.rdata:00007FF619F2E9E8	0000003A	C	Players:GetCharacterAppearanceAsync() got negative userId
+.rdata:00007FF619F2EA30	0000004A	C	Players:GetCharacterAppearanceAsync() failed because of an unknown error.
+.rdata:00007FF619F2EDB0	00000016	C	PlayerLocaleIdVerbose
+.rdata:00007FF619F2EDF8	0000001D	C	PlayerWrapCountReportPercent
+.rdata:00007FF619F2EE18	00000029	C	PlayerHumanoidTypeAnalyticsReportPercent
+.rdata:00007FF619F2EE78	00000016	C	PlayerIntegrityUpdate
+.rdata:00007FF619F2EEA8	00000025	C	EnablePlayerCharacterDestroyBehavior
+.rdata:00007FF619F2EED0	0000001E	C	PlayerSetCharacterAllowActors
+.rdata:00007FF619F2EF20	00000031	C	UpdateHumanoidCachedPlayerIdInPlayerSetCharacter
+.rdata:00007FF619F2F1E8	00000039	C	Player is disconnecting, cannot RequestStreamAroundAsync
+.rdata:00007FF619F2F298	00000036	C	Cannot load data from Player that is not in DataModel
+.rdata:00007FF619F2F330	00000035	C	Cannot save data for Player that is not in DataModel
+.rdata:00007FF619F2F4C8	00000030	C	PlayerChatInfoExponentialBackoffLimitMultiplier
+.rdata:00007FF619F2F538	00000023	C	EmotesAnimationsPerPlayerCacheSize
+.rdata:00007FF619F2F8E8	00000030	C	Player:IsInGroup error: Player not in datamodel
+.rdata:00007FF619F2F918	0000002D	C	Player objects must be children of 'Players'
+.rdata:00007FF619F2F948	00000035	C	Player:GetRoleInGroup error: Player not in datamodel
+.rdata:00007FF619F2F980	00000035	C	Player:GetRankInGroup error: Player not in datamodel
+.rdata:00007FF619F2F9B8	0000003A	C	Player:requestFriendship must be called from local script
+.rdata:00007FF619F2FA20	00000027	C	player argument must be of type Player
+.rdata:00007FF619F2FA88	0000003B	C	Player:Kick() can only be called on a Player under Players
+.rdata:00007FF619F2FAC8	00000018	C	RobloxPlayer-JoinReport
+.rdata:00007FF619F2FAE0	00000035	C	GetFriendsOnline must be invoked on the Local Player
+.rdata:00007FF619F2FB50	00000016	C	Cannot Destroy Player
+.rdata:00007FF619F2FB68	00000018	C	Player not in Workspace
+.rdata:00007FF619F2FBA0	0000004C	C	[FLog::PlayerLocaleIdVerbose] Updated player's chat locale id from {} to {}
+.rdata:00007FF619F2FC00	00000040	C	[FLog::Error] Scope check initiated event for non local player.
+.rdata:00007FF619F2FC40	0000003A	C	[FLog::PlayerLocaleIdVerbose] Error parsing locale id: {}
+.rdata:00007FF619F2FC80	0000004D	C	[FLog::PlayerLocaleIdVerbose] {}:{} updated player's locale id from {} to {}
+.rdata:00007FF619F2FD08	0000000B	C	wrapLayers
+.rdata:00007FF619F2FD80	00000047	C	[FLog::Error] Player respawn timer elapsed, but player is still alive.
+.rdata:00007FF619F2FE10	0000004D	C	Setting Player.Team failed because team must be a child of the Teams service
+.rdata:00007FF619F2FE60	00000039	C	Failed to set %s's team because the player left the game
+.rdata:00007FF619F2FEC8	0000003D	C	Character cannot be changed as Player (%s) is being removed.
+.rdata:00007FF619F2FF88	0000001F	C	Player's Verified Badge Status
+.rdata:00007FF619F2FFA8	0000003A	C	Player:Move called, but player currently has no humanoid.
+.rdata:00007FF619F2FFE8	00000027	C	[FLog::Network] Player:removeCharacter
+.rdata:00007FF619F30010	00000051	C	C:\\buildAgent\\work\\ci_ninja_client-x64_git\\Client\\App\\v8datamodel\\src\\Player.cpp
+.rdata:00007FF619F30070	0000004B	C	Player:SetCharacterAppearanceJson() : string passed in was not valid json!
+.rdata:00007FF619F30120	00000061	C	Player::LoadCharacterWithHumanoidDescription() humanoidDescription contains duplicate assets: %s
+.rdata:00007FF619F30190	0000004B	C	Player::LoadCharacterWithHumanoidDescription() got nil humanoidDescription
+.rdata:00007FF619F301E0	0000003F	C	[FLog::Network] Player:luaLoadCharacterWithHumanoidDescription
+.rdata:00007FF619F30220	00000074	C	Player::LoadCharacterWithHumanoidDescription() HumanoidDescription has BodyPartDescriptions with the same BodyPart.
+.rdata:00007FF619F30298	00000028	C	[FLog::Network] Player:luaLoadCharacter
+.rdata:00007FF619F302C0	0000003B	C	Player:Move called, but player currently has no character.
+.rdata:00007FF619F30470	0000004A	C	calculateNextSpawnLocation can only be called when Player is in the world
+.rdata:00007FF619F304C0	0000004A	C	[FLog::Error] Player:calculateNextSpawnLocation - Player not in the world
+.rdata:00007FF619F30528	0000000C	C	Player's ID
+.rdata:00007FF619F30538	00000017	C	Player's platform name
+.rdata:00007FF619F30550	00000016	C	Player's display name
+.rdata:00007FF619F305A8	0000000E	C	Player's name
+.rdata:00007FF619F305B8	00000036	C	rebuildPlayerScripts can only be called by the client
+.rdata:00007FF619F30790	0000002B	C	RevokeFriendship should be passed a Player
+.rdata:00007FF619F307D8	0000002C	C	RequestFriendship should be passed a Player
+.rdata:00007FF619F30808	00000024	C	Parent of Player can not be changed
+.rdata:00007FF619F309C0	0000000B	C	playerName
+.rdata:00007FF619F30A60	0000000D	C	targetPlayer
+.rdata:00007FF619F30CB0	0000004E	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] finishCharacterLoading() Complete
+.rdata:00007FF619F30D00	0000002B	C	LoadCharacter: Failed to spawn player - %s
+.rdata:00007FF619F30D30	0000003C	C	LoadCharacter: Failed to spawn player, player not in world.
+.rdata:00007FF619F30D70	0000004B	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] finishCharacterLoading() Begin
+.rdata:00007FF619F30DC0	000000A8	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) An asset id (%lld) did not return as asset from the back-end for an R15 avatar (Defaults Applied) (%lld)
+.rdata:00007FF619F30E70	0000004A	C	LoadCharacter: Failed to apply character appearance, player not in world.
+.rdata:00007FF619F30EC0	00000053	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] applyCharacterAppearanceAssets() Begin
+.rdata:00007FF619F30F30	00000044	C	LoadCharacter: Failed to apply character appearance, player is nil.
+.rdata:00007FF619F31030	00000094	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) An asset id (%lld) did not return as asset from the back-end for an R6 avatar (%lld)
+.rdata:00007FF619F310D0	00000071	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] applyCharacterAppearanceAssets() Finished equipping assets to avatar
+.rdata:00007FF619F31150	00000095	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) An asset id (%lld) did not return as asset from the back-end for an R15 avatar (%lld)
+.rdata:00007FF619F311F0	00000057	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadAppearanceAssetsListSync() Download %s
+.rdata:00007FF619F31250	00000063	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadAppearanceAssetsListSync() Download Assets - Begin
+.rdata:00007FF619F312C0	00000051	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadAppearanceAssetsListSync() Begin
+.rdata:00007FF619F31430	00000064	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadAppearanceAssetsListSync() Download Assets Complete
+.rdata:00007FF619F314A0	00000079	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadAppearanceAssetsListSync() Unexpected error for asset download (%s) (%s)
+.rdata:00007FF619F31520	0000006A	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadAppearanceAssetsListSync() Valid error for asset download
+.rdata:00007FF619F31880	00000011	C	ReportPlayerType
+.rdata:00007FF619F31898	0000001A	C	PlayerCharacterLoadingLog
+.rdata:00007FF619F318B8	00000023	C	ThumbnailPlayerCharacterLoadingLog
+.rdata:00007FF619F31AD8	0000003F	C	LoadCharacter: Failed to spawn player, character model is nil.
+.rdata:00007FF619F31B20	00000045	C	LoadCharacter: Failed to spawn player, character has been destroyed.
+.rdata:00007FF619F31B88	00000036	C	LoadCharacter: Failed to spawn player, player is nil.
+.rdata:00007FF619F31BC0	0000002B	C	PlayerCharacterLoaderReplaceModelWithActor
+.rdata:00007FF619F31CB0	00000016	C	PlayerCharacterLoaded
+.rdata:00007FF619F31CD0	0000005C	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] doSyncAvatarFetch() getFullUrl() succeeded (%s)
+.rdata:00007FF619F31D60	00000076	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] doSyncAvatarFetch() getFullUrl() failed (%s), characterAppearanceUrl (%s)
+.rdata:00007FF619F31E20	0000007B	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterWithAvatarFetch() Early exit !checkContextReadyToSpawnCharacter()
+.rdata:00007FF619F31EA0	00000051	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterWithAvatarFetch() Begin
+.rdata:00007FF619F31F40	00000085	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterWithAvatarFetch() Call doSyncAvatarFetch() (using character appearance url)
+.rdata:00007FF619F31FD0	0000007E	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterWithAvatarFetch() Call handleAvatarFetchResponse() (using json blob)
+.rdata:00007FF619F32090	00000079	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterWithAvatarFetch() Character appearance json blob is not empty()
+.rdata:00007FF619F32110	00000065	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) No character model during load (%lld)
+.rdata:00007FF619F321A0	00000071	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) Not back-end processing during player load (%lld)
+.rdata:00007FF619F32240	00000043	C	LoadCharacter: Failed to load character appearance, player is nil.
+.rdata:00007FF619F32290	00000052	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterAppearanceAssets() Begin
+.rdata:00007FF619F322F0	0000007C	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) Avatar Fetch response returned zero assets to request (%lld)
+.rdata:00007FF619F32370	0000005F	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterAppearanceAssets() Collect asset urls
+.rdata:00007FF619F323D0	00000067	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterAppearanceAssets() Create HumanoidDescription
+.rdata:00007FF619F324B8	0000003D	C	[FLog::Error] Player:LoadCharacter - Player not in the world
+.rdata:00007FF619F32500	00000080	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterAppearanceAssets() Calling applyLayeredClothingMetaDataForThumbnailing
+.rdata:00007FF619F32580	00000069	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] loadCharacterAppearanceAssets() Failed to load instancesList
+.rdata:00007FF619F325F0	00000062	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) No characterAppearanceTable (%lld)
+.rdata:00007FF619F326D0	0000003D	C	LoadCharacter can only be called when Player is in the world
+.rdata:00007FF619F32710	0000003D	C	[FLog::Error] Player:LoadCharacter - Backend server required
+.rdata:00007FF619F32840	0000000B	C	PlayerType
+.rdata:00007FF619F329E0	00000059	C	PlayerCharacterLoader:LoadCharacter - rbxm model file does not contain the expected type
+.rdata:00007FF619F32B50	00000088	C	[DFLog::PlayerCharacterLoadingLog] (PlayerCharacterLoadingLog) Unable to parse Avatar Fetch response. Back-end response: %s (%lld) (%s)
+.rdata:00007FF619F32C00	0000004E	C	[DFLog::ThumbnailPlayerCharacterLoadingLog] handleAvatarFetchResponse() Begin
+.rdata:00007FF619F32C50	00000045	C	LoadCharacter: Failed to handle character appearance, player is nil.
+.rdata:00007FF619F32CA0	0000004B	C	LoadCharacter: Failed to handle character appearance, player not in world.
+.rdata:00007FF619F32D20	00000019	C	StarterPlayerScripts_old
+.rdata:00007FF619F32D40	0000001B	C	StarterPlayerScriptsCommon
+.rdata:00007FF619F32D60	00000017	C	internal/StarterPlayer
+.rdata:00007FF619F32D80	00000043	C	StarterPlayerScripts must be a child of StarterPlayer.  %s is not.
+.rdata:00007FF619F32DD0	0000004A	C	Children removed from StarterPlayerScripts not parented to StarterPlayer.
+.rdata:00007FF619F32E40	00000021	C	rbxasset://scripts/PlayerScripts
+.rdata:00007FF619F32E68	00000016	C	scripts/PlayerScripts
+.rdata:00007FF619F33288	00000021	C	NotchedScreenSupportIXPLayerName
+.rdata:00007FF619F33500	00000059	C	Cannot set GuiService.SelectedObject to %s because it is not a descendant of a PlayerGui
+.rdata:00007FF619F33910	00000059	C	GuiService:InspectPlayerFromHumanoidDescription - Expected a HumanoidDescription object.
+.rdata:00007FF619F33980	00000039	C	GuiService:InspectPlayerFromUserId - Got invalid userId.
+.rdata:00007FF619F33BD8	0000001D	C	GetPlayerImageDefaultTimeout
+.rdata:00007FF619F34800	0000001D	C	PlayerGuiOverlayCustomStatus
+.rdata:00007FF619F348C8	00000036	C	[FLog::GuiTargetLifetime] BasePlayerGui destroyed: %p
+.rdata:00007FF619F34920	00000034	C	[FLog::GuiTargetLifetime] BasePlayerGui created: %p
+.rdata:00007FF619F34958	0000001C	C	SendOrientationToPlayersGui
+.rdata:00007FF619F349E0	00000029	C	PlayerGuiSetScreenOrientationTouchDevice
+.rdata:00007FF619F34A10	0000003D	C	[FLog::PlayerGui] onServiceProvider: screenOrientation = {}.
+.rdata:00007FF619F34BC0	00000043	C	Invalid parent for PlayerGui. PlayerGui cannot be parented to %s .
+.rdata:00007FF619F34C60	00000045	C	PlayerGui:SetTopbarTransparency can only be set from a local script.
+.rdata:00007FF619F34CB0	0000004D	C	PlayerGui:GetTopbarTransparency should only be accessed from a local script.
+.rdata:00007FF619F38BA0	00000011	C	Player Radius : 
+.rdata:00007FF619F39F88	0000002A	C	HideFromPlayer can only be of type Player
+.rdata:00007FF619F3FD40	0000000F	C	num_of_players
+.rdata:00007FF619F48558	0000001A	C	wglSwapLayerBuffersMscOML
+.rdata:00007FF619F79C58	00000023	C	SDL_JOYSTICK_HIDAPI_PS5_PLAYER_LED
+.rdata:00007FF619F89B68	0000001A	C	player_set_character_flow
+.rdata:00007FF619F8FC90	0000000E	C	playerScripts
+.rdata:00007FF619F97308	0000000C	C	WritePlayer
+.rdata:00007FF619F99920	00000030	C	DuplicateSoundCacheMetricsTrackingInAudioPlayer
+.rdata:00007FF619FA5738	00000021	C	Roblox-Proxied-Player-User-Agent
+.rdata:00007FF619FA5B60	00000021	C	HttpParallelLimit_RequestPlayers
+.rdata:00007FF619FA6E20	00000018	C	DebugPlayerHttpProxyUrl
+.rdata:00007FF619FB65EC	00000007	C	Player
+.rdata:00007FF619FBB890	00000022	C	DebugPhaseChangePlayersToTurnOver
+.rdata:00007FF619FBBA58	00000021	C	DebugRomarkPlayerTurnoverPattern
+.rdata:00007FF619FBBA90	00000024	C	DebugRomarkPlayerTurnoverIntervalMs
+.rdata:00007FF619FBBBC8	00000012	C	PlayersToTurnover
+.rdata:00007FF619FBC5E0	00000015	C	RBX_ERROR_PLAYERLESS
+.rdata:00007FF619FBC778	00000019	C	RBX_ERROR_PLAYER_REMOVED
+.rdata:00007FF619FBCBD8	0000001B	C	RBX_ERROR_DUPLICATE_PLAYER
+.rdata:00007FF619FBD248	0000000F	C	\"Player count\"
+.rdata:00007FF619FCD080	00000031	C	Player has been moderated. Sending Signal to Lua
+.rdata:00007FF619FCD130	00000014	C	VoiceChatNumPlayers
+.rdata:00007FF619FCD168	00000022	C	VoiceChatNumAudiblePlayersPercent
+.rdata:00007FF619FCD190	0000001B	C	VoiceChatNumAudiblePlayers
+.rdata:00007FF619FCD680	00000070	C	[DFLog::VoiceChatError] VoiceChatInternal::triggerPlayerMuteStateChangedEvent Error: VoiceChatService not found
+.rdata:00007FF619FCD710	0000008E	C	[DFLog::VoiceChatRequestTrace] VoiceChatInternal::triggerPlayerMuteStateChangedEvent Triggering client to server %s event in VoiceChatService
+.rdata:00007FF619FCE0C8	0000001E	C	PlayerMicActivitySignalChange
+.rdata:00007FF619FCE138	00000015	C	LocalPlayerModerated
+.rdata:00007FF619FCE650	00000025	C	VoiceChatServicePlayerModeratedEvent
+.rdata:00007FF619FCE950	00000025	C	VoiceChatPlayerMicActivityThreshold2
+.rdata:00007FF619FD38B8	00000038	C	VoiceChatPlayerUnmuteInitiated2UnmuteCompletedRtnRcvdMs
+.rdata:00007FF619FD39C8	00000034	C	VoiceChatPlayerMuteInitiated2MuteCompletedRtnRcvdMs
+.rdata:00007FF619FDB820	0000000F	C	isPlayerChoice
+.rdata:00007FF619FDB978	0000000B	C	&playerId=
+.rdata:00007FF619FDB998	00000017	C	PlaceId=%s&PlayerId=%s
+.rdata:00007FF619FDBF00	00000042	C	MarketPlaceService:PlayerOwnsBundle failed with an unknown error.
+.rdata:00007FF619FDBF48	00000037	C	MarketPlaceService:PlayerOwnsBundle failed because %s.
+.rdata:00007FF619FDBF80	00000048	C	MarketPlaceService:PlayerOwnsBundle failed because the response was nil
+.rdata:00007FF619FDDB48	0000000C	C	playerCount
+.rdata:00007FF619FE07A0	0000001B	C	/v1/player-policies-client
+.rdata:00007FF619FE07C0	00000018	C	/v1/player-policies-rcc
+.rdata:00007FF619FE0800	0000002F	C	/player-policy-service/v1/player-policy-client
+.rdata:00007FF619FE0830	0000002C	C	/player-policy-service/v1/player-policy-rcc
+.rdata:00007FF619FE08F8	00000025	C	UserIdPlayerNameCacheLifetimeSeconds
+.rdata:00007FF619FE0920	0000001A	C	UserIdPlayerNameCacheSize
+.rdata:00007FF61A2EFC84	00000074	C - UTF-8	C:\\buildAgent\\work\\ci_ninja_client-x64_git\\build.ninja\\client\\vs2019\\x64\\release\\WindowsClient\\RobloxPlayerBeta.pdb
+.rdata:00007FF61A69C960	00000018	C	RobloxPlayerBetaRaw.exe
+.data:00007FF61A72CDA0	00000040	C	.?AV?$Deleter2@VPlayers@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A72CDF0	0000003F	C	.?AV?$Deleter@VPlayers@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A7332E0	0000004C	C	.?AV?$Deleter@VStarterPlayerService@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A7350F8	00000011	C	.?AVPlayer@RBX@@
+.data:00007FF61A7351A0	00000117	C	.?AV?$_Binder@U_Unforced@std@@P6AXAEBUSystemAddress@RakNet@@AEBV?$shared_ptr@VNetworkStream@Network@RBX@@@2@V?$shared_ptr@VInstance@RBX@@@2@V?$shared_ptr@VChatMessage@RBX@@@2@AEBUTextFilterResult@RBX@@PEAVPlayers@9@@ZAEAU34@V52@AEAV62@V72@AEBU?$_Ph@$00@2@AEAPEAVPlayers@9@@std@@
+.data:00007FF61A738CB0	00000041	C	.?AV?$Deleter@VWrapLayer@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A749930	0000004D	C	.?AV?$Deleter@VPlayerEmulatorService@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A754600	0000004C	C	.?AV?$Deleter@VStarterPlayerScripts@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A754930	00000112	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@V?$function@$$A6AXAEBUTextFilterResult@RBX@@@Z@2@V?$shared_ptr@VPlayer@RBX@@@2@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV52@AEAV62@AEAV72@@std@@
+.data:00007FF61A754A60	0000015E	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@V?$shared_ptr@VPlayer@RBX@@@2@2V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@3@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV72@AEAV72@AEAV82@AEAV82@@std@@
+.data:00007FF61A754BD0	00000119	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@V?$shared_ptr@VPlayer@RBX@@@2@1V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@2@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV62@AEAV72@AEAV72@@std@@
+.data:00007FF61A754D00	00000111	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@V?$shared_ptr@VPlayer@RBX@@@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@2@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV72@AEAV72@@std@@
+.data:00007FF61A754E30	000000DC	C	.?AV?$_Binder@U_Unforced@std@@P6AX_NV?$shared_ptr@VPlayer@RBX@@@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@UTextFilterResult@RBX@@@ZAEBU?$_Ph@$00@2@AEAV32@AEAV42@AEBU56@@std@@
+.data:00007FF61A754FE0	000000EF	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@_NAEAV52@AEAV52@AEAV62@AEBV74@@std@@
+.data:00007FF61A7550E0	000000FD	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV52@AEAV52@AEAV62@AEBV74@@std@@
+.data:00007FF61A7551F0	000000EC	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@_NAEAV52@V52@AEAV62@AEBV74@@std@@
+.data:00007FF61A7552F0	000000FA	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV52@V52@AEAV62@AEBV74@@std@@
+.data:00007FF61A755400	000000DE	C	.?AV?$_Binder@U_Unforced@std@@P6AXAEBUTextFilterResult@RBX@@V?$shared_ptr@VPlayer@RBX@@@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@2@ZAEBU?$_Ph@$00@2@AEAV52@AEAV62@AEAV62@@std@@
+.data:00007FF61A7554F0	00000112	C	.?AV?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@V?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV62@AEAV72@AEBV84@@std@@
+.data:00007FF61A7569D0	00000072	C	.?AV?$_Binder@U_Unforced@std@@P6AXV?$weak_ptr@VLogService@RBX@@@2@V?$weak_ptr@VPlayer@RBX@@@2@@ZAEAV32@V42@@std@@
+.data:00007FF61A760100	0000010B	C	.?AV?$_Binder@U_Unforced@std@@P8?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@RBX@@EAAXV?$shared_ptr@VPlayer@RBX@@@2@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@@ZPEAV34@AEAV52@AEAV62@@std@@
+.data:00007FF61A761320	0000024C	C	.?AV?$_Binder@U_Unforced@std@@A6AXV?$shared_ptr@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@Z@std@@@2@V?$shared_ptr@VPlayer@RBX@@@2@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZAEAV32@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@AEBU?$_Ph@$03@2@@std@@
+.data:00007FF61A763B80	00000049	C	.?AV?$Deleter@VPlayerViewService@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A765820	0000004E	C	.?AV?$Deleter@VAudioPlayer@Soundscape@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A765AC0	00000069	C	.?AV?$Deleter@VPlayerLocaleLocalizationServiceTranslatorInstance@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A7662C0	00000270	C	.?AV?$_Binder@U_Unforced@std@@P8PlayerEmulatorService@RBX@@EAAXV?$function@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZPEAV34@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@
+.data:00007FF61A766B00	0000003F	C	.?AV?$Deleter2@VPlayer@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A766B50	0000004F	C	.?AV?$Deleter@VPlayers@RBX@@@?$Creatable@VDescribedBase@Reflection@RBX@@@RBX@@
+.data:00007FF61A766BB0	0000003E	C	.?AV?$Deleter@VPlayer@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A766C00	00000050	C	.?AV?$Deleter2@VPlayers@RBX@@@?$Creatable@VDescribedBase@Reflection@RBX@@@RBX@@
+.data:00007FF61A767910	00000132	C	.?AV?$_Binder@U_Unforced@std@@P8Players@RBX@@EAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_NV?$function@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZPEAV34@AEBU?$_Ph@$00@2@_NAEAV62@AEAV72@@std@@
+.data:00007FF61A767AE0	00000146	C	.?AV?$_Binder@U_Unforced@std@@P6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_NV?$weak_ptr@VPlayers@RBX@@@2@V?$function@$$A6AXV?$shared_ptr@VHumanoidDescription@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZAEBU?$_Ph@$00@2@_NAEAV42@AEAV52@AEAV62@@std@@
+.data:00007FF61A768140	000000C2	C	.?AV?$_Binder@U_Unforced@std@@P8Players@RBX@@EAAXPEAVDataModel@4@AEBVSystemAddress@4@_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZPEAV34@AEBU?$_Ph@$00@2@AEBV64@_NV72@@std@@
+.data:00007FF61A768220	00000041	C	.?AV?$_Binder@U_Unforced@std@@P8Players@RBX@@EAAXXZPEAV34@@std@@
+.data:00007FF61A768660	00000041	C	.?AV?$Deleter@VPlayerGui@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A7686C0	00000045	C	.?AV?$Deleter@VPlayerScripts@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A768720	00000043	C	.?AV?$Deleter@VPlayerMouse@RBX@@@?$Creatable@VInstance@RBX@@@RBX@@
+.data:00007FF61A768880	00000057	C	.?AV?$_Binder@U_Unforced@std@@P8Player@RBX@@EAAXXZV?$shared_ptr@VPlayer@RBX@@@2@@std@@
+.data:00007FF61A768CB0	00000177	C	.?AV?$_Binder@U_Unforced@std@@P6AXV?$shared_ptr@VPlayer@RBX@@@2@_JW4HttpRequestResult@RBX@@V?$shared_ptr@V?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@2@V?$shared_ptr@Vexception@std@@@2@V?$function@$$A6AXV?$shared_ptr@VAnimation@RBX@@@std@@@Z@2@@ZV32@AEA_JAEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@AEAV82@@std@@
+.data:00007FF61A768F00	00000075	C	.?AV?$_Binder@U_Unforced@std@@P6AXAEBV?$weak_ptr@VPlayer@RBX@@@2@W4CanManageStatus@Player@RBX@@@ZAEBV32@W4456@@std@@
+.data:00007FF61A769770	0000024D	C	.?AV?$_Binder@U_Unforced@std@@A6AXV?$shared_ptr@VPages@RBX@@@2@V?$weak_ptr@VPlayer@RBX@@@2@V?$weak_ptr@VHumanoidDescription@RBX@@@2@V?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$set@_JU?$less@_J@std@@V?$allocator@_J@2@@2@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$set@_JU?$less@_J@std@@V?$allocator@_J@2@@2@@std@@@2@@2@@ZAEAV32@AEAV42@AEAV52@AEAV62@@std@@
+.data:00007FF61A769CD0	000001C2	C	.?AV?$_Binder@U_Unforced@std@@P6AXV?$weak_ptr@VPlayer@RBX@@@2@UAvatarData@PlayerCharacterLoader@RBX@@UAssetLoadingData@56@W4HttpRequestResult@6@V?$shared_ptr@V?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@2@VTime@6@W4AssetType@6@_J_NAEBUHumanoidDescriptionAsset@6@@ZAEAV32@AEAU456@AEAU756@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEAVTime@6@AEAW4AssetType@6@AEA_J_NAEAUHumanoidDescriptionAsset@6@@std@@
+.data:00007FF61A769EF0	00000053	C	.?AV?$Deleter@VPlayerMouse@RBX@@@?$Creatable@VDescribedBase@Reflection@RBX@@@RBX@@
+.data:00007FF61A78C410	0000006A	C	.?AV?$_Ref_count_resource@PEAVPlayers@RBX@@V?$Deleter@VPlayers@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A78C6C0	0000006B	C	.?AV?$_Ref_count_resource@PEAVPlayers@RBX@@V?$Deleter2@VPlayers@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A791718	0000002F	C	.?AV?$_Ref_count@VPlayerConfigurer@RBX@@@std@@
+.data:00007FF61A7A13E0	0000001B	C	.?AVPlayerConfigurer@RBX@@
+.data:00007FF61A7A2C40	00000070	C	.?AV?$_Func_impl_no_alloc@V<lambda_c30513290af507a32cc4537d5c0a6a50>@@_NV?$shared_ptr@VPlayer@RBX@@@std@@@std@@
+.data:00007FF61A7A2DA0	00000084	C	.?AV?$_Ref_count_resource@PEAVStarterPlayerService@RBX@@V?$Deleter@VStarterPlayerService@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A7A3290	0000003B	C	.?AV?$_Func_base@_NV?$shared_ptr@VPlayer@RBX@@@std@@@std@@
+.data:00007FF61A7A6CC0	0000006C	C	.?AV?$_Func_impl_no_alloc@V<lambda_d1335c1a3078097d621efe1f48207fa6>@@XW4CanManageStatus@Player@RBX@@@std@@
+.data:00007FF61A7A71C0	00000037	C	.?AV?$_Func_base@XW4CanManageStatus@Player@RBX@@@std@@
+.data:00007FF61A7A87E0	0000004D	C	.?AVStreamModelPersistentPlayerRemoveItem@StreamJob@Replicator@Network@RBX@@
+.data:00007FF61A7A8840	0000004A	C	.?AVStreamModelPersistentPlayerAddItem@StreamJob@Replicator@Network@RBX@@
+.data:00007FF61A7A8A80	00000044	C	.?AVDeserializedStreamModelPersistentPlayerRemoveItem@Network@RBX@@
+.data:00007FF61A7A8AE0	00000041	C	.?AVDeserializedStreamModelPersistentPlayerAddItem@Network@RBX@@
+.data:00007FF61A7AA6E0	0000014F	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AXAEBUSystemAddress@RakNet@@AEBV?$shared_ptr@VNetworkStream@Network@RBX@@@2@V?$shared_ptr@VInstance@RBX@@@2@V?$shared_ptr@VChatMessage@RBX@@@2@AEBUTextFilterResult@RBX@@PEAVPlayers@9@@ZAEAU34@V52@AEAV62@V72@AEBU?$_Ph@$00@2@AEAPEAVPlayers@9@@std@@XAEBUTextFilterResult@RBX@@@std@@
+.data:00007FF61A7B4000	00000018	C	.?AVWrapLayerProp@RBX@@
+.data:00007FF61A7B4030	0000003C	C	.?AV?$DescribedCreatable@VWrapLayer@RBX@@VBaseWrap@2@@RBX@@
+.data:00007FF61A7B4080	00000014	C	.?AVWrapLayer@RBX@@
+.data:00007FF61A7B40B0	0000006E	C	.?AV?$_Ref_count_resource@PEAVWrapLayer@RBX@@V?$Deleter@VWrapLayer@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A7B4190	0000003A	C	.?AV?$EnumDesc@W4WrapLayerAutoSkin@RBX@@@Reflection@RBX@@
+.data:00007FF61A7B41E0	0000003B	C	.?AV?$EnumDesc@W4WrapLayerDebugMode@RBX@@@Reflection@RBX@@
+.data:00007FF61A7B4230	00000025	C	.?AV?$Creator@VWrapLayer@RBX@@@RBX@@
+.data:00007FF61A7C8B60	0000009D	C	.?AV?$GetSetImpl@P8WrapLayer@RBX@@EBAAEBW4WrapLayerAutoSkin@2@XZP812@EAAXAEBW432@@Z@?$PropDescriptor@VWrapLayer@RBX@@W4WrapLayerAutoSkin@2@@Reflection@RBX@@
+.data:00007FF61A7C8C10	00000080	C	.?AV?$GetImpl@P8WrapLayer@RBX@@EBA?AVCoordinateFrame@2@XZ@?$PropDescriptor@VWrapLayer@RBX@@VCoordinateFrame@2@@Reflection@RBX@@
+.data:00007FF61A7C8CA0	0000009B	C	.?AV?$GetSetImpl@P8WrapLayer@RBX@@EBA?AW4WrapLayerDebugMode@2@XZP812@EAAXW432@@Z@?$PropDescriptor@VWrapLayer@RBX@@W4WrapLayerDebugMode@2@@Reflection@RBX@@
+.data:00007FF61A7C8D50	00000041	C	.?AV?$PropDescriptor@VWrapLayer@RBX@@VColor3@2@@Reflection@RBX@@
+.data:00007FF61A7C8DB0	00000044	C	.?AV?$PropDescriptor@VWrapLayer@RBX@@VContentId@2@@Reflection@RBX@@
+.data:00007FF61A7C8E10	00000050	C	.?AVGetSet@?$TypedPropertyDescriptor@W4WrapLayerAutoSkin@RBX@@@Reflection@RBX@@
+.data:00007FF61A7C8E70	00000051	C	.?AV?$EnumPropDescriptor@VWrapLayer@RBX@@W4WrapLayerAutoSkin@2@@Reflection@RBX@@
+.data:00007FF61A7C8EE0	00000038	C	.?AV?$PropDescriptor@VWrapLayer@RBX@@M@Reflection@RBX@@
+.data:00007FF61A7C8F30	00000038	C	.?AV?$PropDescriptor@VWrapLayer@RBX@@H@Reflection@RBX@@
+.data:00007FF61A7C8FE0	00000041	C	.?AV?$PropDescriptor@VWrapLayer@RBX@@VMeshId@2@@Reflection@RBX@@
+.data:00007FF61A7C9040	00000039	C	.?AV?$PropDescriptor@VWrapLayer@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A7C9090	0000004A	C	.?AV?$PropDescriptor@VWrapLayer@RBX@@VCoordinateFrame@2@@Reflection@RBX@@
+.data:00007FF61A7C90F0	00000076	C	.?AV?$GetSetImpl@P8WrapLayerProp@RBX@@EBAMXZP8WrapLayer@2@EAAXM@Z@?$PropDescriptor@VWrapLayer@RBX@@M@Reflection@RBX@@
+.data:00007FF61A7C9180	00000091	C	.?AV?$GetSetImpl@P8WrapLayerProp@RBX@@EBAAEBVMeshId@2@XZP8WrapLayer@2@EAAXAEBV32@@Z@?$PropDescriptor@VWrapLayer@RBX@@VMeshId@2@@Reflection@RBX@@
+.data:00007FF61A7C9230	00000084	C	.?AV?$GetSetImpl@P8WrapLayer@RBX@@EBAAEBVColor3@2@XZP812@EAAXAEBV32@@Z@?$PropDescriptor@VWrapLayer@RBX@@VColor3@2@@Reflection@RBX@@
+.data:00007FF61A7C92D0	00000097	C	.?AV?$GetSetImpl@P8WrapLayerProp@RBX@@EBAAEBVContentId@2@XZP8WrapLayer@2@EAAXAEBV32@@Z@?$PropDescriptor@VWrapLayer@RBX@@VContentId@2@@Reflection@RBX@@
+.data:00007FF61A7C9380	00000079	C	.?AV?$GetSetImpl@P8WrapLayerProp@RBX@@EBA_NXZP8WrapLayer@2@EAAX_N@Z@?$PropDescriptor@VWrapLayer@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A7C9410	00000096	C	.?AV?$GetSetImpl@P8WrapLayer@RBX@@EBAAEBVCoordinateFrame@2@XZP812@EAAXAEBV32@@Z@?$PropDescriptor@VWrapLayer@RBX@@VCoordinateFrame@2@@Reflection@RBX@@
+.data:00007FF61A7C94C0	00000069	C	.?AV?$GetSetImpl@P8WrapLayer@RBX@@EBAMXZP812@EAAXM@Z@?$PropDescriptor@VWrapLayer@RBX@@M@Reflection@RBX@@
+.data:00007FF61A7C9540	00000076	C	.?AV?$GetSetImpl@P8WrapLayerProp@RBX@@EBAHXZP8WrapLayer@2@EAAXH@Z@?$PropDescriptor@VWrapLayer@RBX@@H@Reflection@RBX@@
+.data:00007FF61A7C95D0	00000051	C	.?AVGetSet@?$TypedPropertyDescriptor@W4WrapLayerDebugMode@RBX@@@Reflection@RBX@@
+.data:00007FF61A7C9640	00000052	C	.?AV?$EnumPropDescriptor@VWrapLayer@RBX@@W4WrapLayerDebugMode@2@@Reflection@RBX@@
+.data:00007FF61A7CB790	0000003B	C	.?AV?$_Ref_count_obj2@VWrapLayeredDeformerImpl@RBX@@@std@@
+.data:00007FF61A7CB7E0	00000022	C	.?AVWrapLayeredDeformerImpl@RBX@@
+.data:00007FF61A7CBA00	0000003F	C	.?AV?$enable_shared_from_this@VWrapLayeredDeformer@RBX@@@std@@
+.data:00007FF61A7CBA50	0000001E	C	.?AVWrapLayeredDeformer@RBX@@
+.data:00007FF61A7F6D20	00000067	C	.?AV?$BoundFuncDesc@VAdPortal@Ads@RBX@@$$A6AX_JV?$shared_ptr@VPlayer@RBX@@@std@@@Z$01@Reflection@RBX@@
+.data:00007FF61A7F7AB0	000000BC	C	.?AV?$BoundFuncDesc@VAnimator@RBX@@$$A6A?AV?$shared_ptr@VAnimationStreamTrack@RBX@@@std@@V?$shared_ptr@VTrackerStreamAnimation@RBX@@@4@V?$shared_ptr@VPlayer@RBX@@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A7F8090	000000A8	C	.?AV?$EventDescBase@VAnimator@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A7F8150	000000AA	C	.?AV?$RemoteEventDesc@VAnimator@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A7F82D0	000000A4	C	.?AV?$EventDesc@VAnimator@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A812A70	00000086	C	.?AV?$_Ref_count_resource@PEAVPlayerEmulatorService@RBX@@V?$Deleter@VPlayerEmulatorService@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A82A710	0000004D	C	.?AV?$EnumDesc@W4PlayerCharacterDestroyBehavior@Enums@RBX@@@Reflection@RBX@@
+.data:00007FF61A82A770	00000039	C	.?AV?$EnumDesc@W4PlayerActionType@RBX@@@Reflection@RBX@@
+.data:00007FF61A835580	0000007F	C	.?AV?$_Ref_count_obj2@V?$vector@V?$shared_ptr@VPlayer@RBX@@@std@@V?$allocator@V?$shared_ptr@VPlayer@RBX@@@std@@@2@@std@@@std@@
+.data:00007FF61A841AC0	00000061	C	.?AV?$BoundFuncDesc@VBasePart@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A84B860	00000066	C	.?AV?$BoundFuncDesc@VModelInstance@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A84B950	000000C1	C	.?AV?$BoundFuncDesc@VModelInstance@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$vector@V?$shared_ptr@VPlayer@RBX@@@std@@V?$allocator@V?$shared_ptr@VPlayer@RBX@@@std@@@2@@std@@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A84D188	0000001C	C	.?AVStarterPlayerProp@RBX@@
+.data:00007FF61A84D1C0	0000004E	C	.?AV?$DescribedCreatable@VStarterPlayerService@RBX@@VServiceInstance@2@@RBX@@
+.data:00007FF61A84D220	00000084	C	.?AV?$_Ref_count_resource@PEAVStarterPlayerScripts@RBX@@V?$Deleter@VStarterPlayerScripts@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A84D2C0	00000030	C	.?AV?$Creator@VStarterPlayerService@RBX@@@RBX@@
+.data:00007FF61A84D3A0	0000001F	C	.?AVStarterPlayerService@RBX@@
+.data:00007FF61A84D980	0000011A	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV52@V52@AEAV62@AEBV74@@std@@X_N@std@@
+.data:00007FF61A84DAB0	00000148	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@_NAEAV52@AEAV52@AEAV62@AEBV74@@std@@XV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@
+.data:00007FF61A84DC10	0000011D	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV52@AEAV52@AEAV62@AEBV74@@std@@X_N@std@@
+.data:00007FF61A84DD80	00000132	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@V?$function@$$A6AXAEBUTextFilterResult@RBX@@@Z@2@V?$shared_ptr@VPlayer@RBX@@@2@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV52@AEAV62@AEAV72@@std@@X_N@std@@
+.data:00007FF61A84DED0	00000116	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AXAEBUTextFilterResult@RBX@@V?$shared_ptr@VPlayer@RBX@@@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@2@ZAEBU?$_Ph@$00@2@AEAV52@AEAV62@AEAV62@@std@@XAEBUTextFilterResult@RBX@@@std@@
+.data:00007FF61A84E000	0000014A	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@V?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV62@AEAV72@AEBV84@@std@@XAEBUTextFilterResult@RBX@@@std@@
+.data:00007FF61A84E160	00000145	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAX_NV?$shared_ptr@VPlayer@RBX@@@2@1V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AEBVSystemAddress@4@@ZV?$shared_ptr@VChatService@RBX@@@2@_NAEAV52@V52@AEAV62@AEBV74@@std@@XV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@
+.data:00007FF61A84E2C0	000000FC	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AX_NV?$shared_ptr@VPlayer@RBX@@@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@UTextFilterResult@RBX@@@ZAEBU?$_Ph@$00@2@AEAV32@AEAV42@AEBU56@@std@@X_N@std@@
+.data:00007FF61A84E3D0	00000196	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@V?$shared_ptr@VPlayer@RBX@@@2@2V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@3@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV72@AEAV72@AEAV82@AEAV82@@std@@XAEBUTextFilterResult@RBX@@@std@@
+.data:00007FF61A84E580	00000151	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@V?$shared_ptr@VPlayer@RBX@@@2@1V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@2@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV62@AEAV72@AEAV72@@std@@XAEBUTextFilterResult@RBX@@@std@@
+.data:00007FF61A84E9A0	00000149	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8ChatService@RBX@@EAAXAEBUTextFilterResult@4@V?$shared_ptr@VPlayer@RBX@@@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@2@ZV?$shared_ptr@VChatService@RBX@@@2@AEBU?$_Ph@$00@2@AEAV62@AEAV72@AEAV72@@std@@XAEBUTextFilterResult@RBX@@@std@@
+.data:00007FF61A84FA30	000000C4	C	.?AV?$GetSetImpl@P8WorkspaceProp@RBX@@EBA?AW4PlayerCharacterDestroyBehavior@Enums@2@XZP812@EAAXW4342@@Z@?$PropDescriptor@VWorkspace@RBX@@W4PlayerCharacterDestroyBehavior@Enums@2@@Reflection@RBX@@
+.data:00007FF61A84FB10	00000064	C	.?AV?$EnumPropDescriptor@VWorkspace@RBX@@W4PlayerCharacterDestroyBehavior@Enums@2@@Reflection@RBX@@
+.data:00007FF61A84FB90	00000063	C	.?AVGetSet@?$TypedPropertyDescriptor@W4PlayerCharacterDestroyBehavior@Enums@RBX@@@Reflection@RBX@@
+.data:00007FF61A851E20	000000AB	C	.?AV?$RemoteEventDesc@VWorkspace@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A851EE0	000000A9	C	.?AV?$EventDescBase@VWorkspace@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A851FA0	000000A5	C	.?AV?$EventDesc@VWorkspace@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A856130	000000A0	C	.?AV?$EventDesc@VTool@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A856900	000000A6	C	.?AV?$RemoteEventDesc@VTool@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8569C0	000000A4	C	.?AV?$EventDescBase@VTool@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A858CF0	00000093	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AXV?$weak_ptr@VLogService@RBX@@@2@V?$weak_ptr@VPlayer@RBX@@@2@@ZAEAV32@V42@@std@@X$$V@std@@
+.data:00007FF61A868A60	00000055	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4DeathStyle@2@@Reflection@RBX@@
+.data:00007FF61A868AD0	0000007F	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBAMXZP812@EAAXM@Z@?$PropDescriptor@VStarterPlayerService@RBX@@M@Reflection@RBX@@
+.data:00007FF61A868B60	0000007F	C	.?AV?$GetSetImpl@P8StarterPlayerProp@RBX@@EBA_NXZP812@EAAX_N@Z@?$PropDescriptor@VStarterPlayerService@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A868BF0	000000A3	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AVNumberRange@2@XZP812@EAAXAEBV32@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@VNumberRange@2@@Reflection@RBX@@
+.data:00007FF61A868CB0	00000082	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA_JXZP812@EAAX_J@Z@?$PropDescriptor@VStarterPlayerService@RBX@@_J@Reflection@RBX@@
+.data:00007FF61A868D50	000000BE	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4AvatarJointUpgrade@Enums@2@XZP812@EAAXW4342@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4AvatarJointUpgrade@Enums@2@@Reflection@RBX@@
+.data:00007FF61A868E20	0000007C	C	.?AV?$GetSetImpl@P8StarterPlayerProp@RBX@@EBAMXZP812@EAAXM@Z@?$PropDescriptor@VStarterPlayerService@RBX@@M@Reflection@RBX@@
+.data:00007FF61A868EB0	00000109	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4DeveloperCameraOcclusionMode@DevCameraOcclusionModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4DeveloperCameraOcclusionMode@DevCameraOcclusionModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A868FD0	000000CA	C	.?AV?$GetSetImpl@P8StarterPlayerProp@RBX@@EBA?AW4CameraMode@CameraModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4CameraMode@CameraModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8690B0	0000010D	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4DeveloperComputerMovementMode@DevComputerMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4DeveloperComputerMovementMode@DevComputerMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8691D0	00000125	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4DeveloperComputerCameraMovementMode@DevComputerCameraMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4DeveloperComputerCameraMovementMode@DevComputerCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A869310	00000101	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4DeveloperTouchMovementMode@DevTouchMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4DeveloperTouchMovementMode@DevTouchMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A869430	00000119	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4DeveloperTouchCameraMovementMode@DevTouchCameraMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4DeveloperTouchCameraMovementMode@DevTouchCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A869560	000000A6	C	.?AV?$GetSetImpl@P8StarterPlayerProp@RBX@@EBA?AW4GameAvatarType@2@XZP812@EAAXW432@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4GameAvatarType@2@@Reflection@RBX@@
+.data:00007FF61A869620	000000AD	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4LoadDynamicHeads@2@XZP812@EAAXW432@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4LoadDynamicHeads@2@@Reflection@RBX@@
+.data:00007FF61A8696E0	000000BF	C	.?AV?$GetSetImpl@P8StarterPlayerProp@RBX@@EBA?AW4CharacterControlMode@Enums@2@XZP812@EAAXW4342@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4CharacterControlMode@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8697B0	000000AD	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4R15CollisionType@2@XZP812@EAAXW432@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4R15CollisionType@2@@Reflection@RBX@@
+.data:00007FF61A869870	0000009E	C	.?AV?$GetSetImpl@P8StarterPlayerProp@RBX@@EBA?AW4DeathStyle@2@XZP812@EAAXW432@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4DeathStyle@2@@Reflection@RBX@@
+.data:00007FF61A869920	000000C5	C	.?AV?$GetSetImpl@P8StarterPlayerService@RBX@@EBA?AW4LoadCharacterLayeredClothing@2@XZP812@EAAXW432@@Z@?$PropDescriptor@VStarterPlayerService@RBX@@W4LoadCharacterLayeredClothing@2@@Reflection@RBX@@
+.data:00007FF61A869A00	00000044	C	.?AV?$PropDescriptor@VStarterPlayerService@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A869A60	00000044	C	.?AV?$PropDescriptor@VStarterPlayerService@RBX@@_J@Reflection@RBX@@
+.data:00007FF61A869AC0	00000043	C	.?AV?$PropDescriptor@VStarterPlayerService@RBX@@M@Reflection@RBX@@
+.data:00007FF61A869B20	00000063	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4AvatarJointUpgrade@Enums@2@@Reflection@RBX@@
+.data:00007FF61A869BA0	00000051	C	.?AV?$PropDescriptor@VStarterPlayerService@RBX@@VNumberRange@2@@Reflection@RBX@@
+.data:00007FF61A869C10	0000006A	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4CameraMode@CameraModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A869D90	00000088	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4DeveloperCameraOcclusionMode@DevCameraOcclusionModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A869ED0	00000096	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4DeveloperComputerCameraMovementMode@DevComputerCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A86A010	0000008A	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4DeveloperComputerMovementMode@DevComputerMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A86A150	00000090	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4DeveloperTouchCameraMovementMode@DevTouchCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A86A280	00000084	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4DeveloperTouchMovementMode@DevTouchMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A86A380	0000005B	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4LoadDynamicHeads@2@@Reflection@RBX@@
+.data:00007FF61A86A450	00000059	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4GameAvatarType@2@@Reflection@RBX@@
+.data:00007FF61A86A520	0000005B	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4R15CollisionType@2@@Reflection@RBX@@
+.data:00007FF61A86A600	00000065	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4CharacterControlMode@Enums@2@@Reflection@RBX@@
+.data:00007FF61A86A6F0	00000067	C	.?AV?$EnumPropDescriptor@VStarterPlayerService@RBX@@W4LoadCharacterLayeredClothing@2@@Reflection@RBX@@
+.data:00007FF61A86AEA0	000000B1	C	.?AV?$RemoteEventDesc@VClickDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@H@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@H@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86AF70	000000AB	C	.?AV?$EventDesc@VClickDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@H@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@H@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86B030	000000AF	C	.?AV?$EventDescBase@VClickDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@H@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@H@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86B0F0	000000A6	C	.?AV?$EventDescBase@VClickDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86B1B0	000000A2	C	.?AV?$EventDesc@VClickDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86C160	0000011D	C	.?AV?$EventDescBase@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@2@VCoordinateFrame@2@VOptionalCoordinateFrame@2@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@RBX@@VCoordinateFrame@4@VOptionalCoordinateFrame@4@_N@Z@rbx@@PEQ12@V89@@Reflection@RBX@@
+.data:00007FF61A86C290	0000011F	C	.?AV?$RemoteEventDesc@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@2@VCoordinateFrame@2@VOptionalCoordinateFrame@2@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@RBX@@VCoordinateFrame@4@VOptionalCoordinateFrame@4@_N@Z@rbx@@PEQ12@V89@@Reflection@RBX@@
+.data:00007FF61A86C3C0	000000AE	C	.?AV?$RemoteEventDesc@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86C480	00000119	C	.?AV?$EventDesc@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@2@VCoordinateFrame@2@VOptionalCoordinateFrame@2@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@RBX@@VCoordinateFrame@4@VOptionalCoordinateFrame@4@_N@Z@rbx@@PEQ12@V89@@Reflection@RBX@@
+.data:00007FF61A86C5B0	000000A8	C	.?AV?$EventDesc@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86C670	000000AC	C	.?AV?$EventDescBase@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A86C730	00000162	C	.?AV?$EventDescBase@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@2@VCoordinateFrame@2@2V?$shared_ptr@VBasePart@RBX@@@4@VOptionalCoordinateFrame@2@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@RBX@@VCoordinateFrame@4@2V?$shared_ptr@VBasePart@RBX@@@2@VOptionalCoordinateFrame@4@_N@Z@rbx@@PEQ12@V9rbx@@@Reflection@RBX@@
+.data:00007FF61A86C8B0	00000164	C	.?AV?$RemoteEventDesc@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@2@VCoordinateFrame@2@2V?$shared_ptr@VBasePart@RBX@@@4@VOptionalCoordinateFrame@2@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@RBX@@VCoordinateFrame@4@2V?$shared_ptr@VBasePart@RBX@@@2@VOptionalCoordinateFrame@4@_N@Z@rbx@@PEQ12@V9rbx@@@Reflection@RBX@@
+.data:00007FF61A86CA30	0000015E	C	.?AV?$EventDesc@VDragDetector@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@2@VCoordinateFrame@2@2V?$shared_ptr@VBasePart@RBX@@@4@VOptionalCoordinateFrame@2@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VRay@RBX@@VCoordinateFrame@4@2V?$shared_ptr@VBasePart@RBX@@@2@VOptionalCoordinateFrame@4@_N@Z@rbx@@PEQ12@V9rbx@@@Reflection@RBX@@
+.data:00007FF61A86D330	000000CB	C	.?AV?$BoundYieldFuncDesc@VAvatarCreationService@RBX@@$$A6A?AV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@V?$shared_ptr@VHumanoidDescription@RBX@@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A885D90	00000116	C	.?AV?$BoundYieldFuncDesc@VMarketplaceService@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A885EC0	0000023E	C	.?AV?$BoundYieldFuncDesc@VMarketplaceService@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A887BD0	00000073	C	.?AV?$BoundYieldFuncDesc@VMarketplaceService@RBX@@$$A6A_NV?$shared_ptr@VPlayer@RBX@@@std@@_J@Z$01@Reflection@RBX@@
+.data:00007FF61A887FE0	000000A6	C	.?AV?$BoundFuncDesc@VMarketplaceService@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A88A0A0	0000012E	C	.?AV?$RemoteEventDesc@VMarketplaceService@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A88A1E0	0000012C	C	.?AV?$EventDescBase@VMarketplaceService@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A88A320	00000128	C	.?AV?$EventDesc@VMarketplaceService@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@_N@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A897880	00000099	C	.?AV?$EventDesc@VTeam@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A897930	0000009D	C	.?AV?$EventDescBase@VTeam@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A89D190	000000C5	C	.?AV?$BoundYieldFuncDesc@VAssetService@RBX@@$$A6A?AV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@V?$shared_ptr@VInstance@RBX@@@4@W4AssetType@2@@Z$02@Reflection@RBX@@
+.data:00007FF61A89D620	000000AC	C	.?AV?$BoundYieldFuncDesc@VAssetService@RBX@@$$A6A?AV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@VWeakObjectRef@Lua@2@@Z$01@Reflection@RBX@@
+.data:00007FF61A89F6A0	000000B1	C	.?AV?$RemoteEventDesc@VProximityPrompt@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A89F770	000000AF	C	.?AV?$EventDescBase@VProximityPrompt@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A89F830	000000AB	C	.?AV?$EventDesc@VProximityPrompt@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A89F8F0	000000A4	C	.?AV?$EventDesc@VProximityPrompt@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A89F9B0	000000A8	C	.?AV?$EventDescBase@VProximityPrompt@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A89FF40	000000F9	C	.?AV?$EventDesc@VProximityPromptService@RBX@@$$A6AXV?$shared_ptr@VProximityPrompt@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@@ZV?$signal@$$A6AXV?$shared_ptr@VProximityPrompt@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8A0050	000000FD	C	.?AV?$EventDescBase@VProximityPromptService@RBX@@$$A6AXV?$shared_ptr@VProximityPrompt@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@@ZV?$signal@$$A6AXV?$shared_ptr@VProximityPrompt@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8A1270	000000AA	C	.?AV?$BoundYieldFuncDesc@VChatService@RBX@@$$A6A?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V34@V?$shared_ptr@VPlayer@RBX@@@4@1@Z$02@Reflection@RBX@@
+.data:00007FF61A8A1330	000000A9	C	.?AV?$BoundYieldFuncDesc@VChatService@RBX@@$$A6A?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V34@V?$shared_ptr@VPlayer@RBX@@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A8B05D0	00000070	C	.?AV?$remote_signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@@Z@rbx@@
+.data:00007FF61A8B0650	00000069	C	.?AV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@@Z@rbx@@
+.data:00007FF61A8B0890	0000012C	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@RBX@@EAAXV?$shared_ptr@VPlayer@RBX@@@2@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@@ZPEAV34@AEAV52@AEAV62@@std@@X$$V@std@@
+.data:00007FF61A8B0CD0	00000084	C	.?AV?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@RBX@@
+.data:00007FF61A8BAD70	00000070	C	.?AV?$BoundYieldFuncDesc@VGamePassService@RBX@@$$A6A_NV?$shared_ptr@VPlayer@RBX@@@std@@_J@Z$01@Reflection@RBX@@
+.data:00007FF61A8C2DA0	0000034F	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@A6AXV?$shared_ptr@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@Z@std@@@2@V?$shared_ptr@VPlayer@RBX@@@2@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZAEAV32@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@AEBU?$_Ph@$03@2@@std@@XV?$shared_ptr@VPlayer@RBX@@@2@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@std@@
+.data:00007FF61A8C3390	000000A1	C	.?AV?$BoundAsyncCallbackDesc@VRemoteFunction@RBX@@$$A6A?AV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@V34@@Z$01@Reflection@RBX@@
+.data:00007FF61A8C35D0	0000009D	C	.?AV?$BoundYieldFuncDesc@VRemoteFunction@RBX@@$$A6A?AV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@V?$shared_ptr@VPlayer@RBX@@@4@V34@@Z$01@Reflection@RBX@@
+.data:00007FF61A8C3680	00000101	C	.?AV?$_Func_base@XV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@V?$function@$$A6AXV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@std@@
+.data:00007FF61A8C37A0	00000104	C	.?AV?$EventDesc@VRemoteFunction@RBX@@$$A6AXHV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$remote_signal@$$A6AXHV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8C38C0	00000108	C	.?AV?$EventDescBase@VRemoteFunction@RBX@@$$A6AXHV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$remote_signal@$$A6AXHV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8C39E0	0000010A	C	.?AV?$RemoteEventDesc@VRemoteFunction@RBX@@$$A6AXHV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$remote_signal@$$A6AXHV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8C40A0	00000090	C	.?AV?$BoundFuncDesc@VRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A8C41D0	00000119	C	.?AV?$EventDesc@VRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@2@P812@EAAPEAV62@_N@Z@Reflection@RBX@@
+.data:00007FF61A8C4300	0000011D	C	.?AV?$EventDescBase@VRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@2@P812@EAAPEAV62@_N@Z@Reflection@RBX@@
+.data:00007FF61A8C4430	0000011F	C	.?AV?$RemoteEventDesc@VRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@2@P812@EAAPEAV62@_N@Z@Reflection@RBX@@
+.data:00007FF61A8CB0D0	00000020	C	.?AVPlayerViewServiceProp@RBX@@
+.data:00007FF61A8CB100	0000004B	C	.?AV?$DescribedCreatable@VPlayerViewService@RBX@@VServiceInstance@2@@RBX@@
+.data:00007FF61A8CB160	0000001C	C	.?AVPlayerViewService@RBX@@
+.data:00007FF61A8CB190	0000007E	C	.?AV?$_Ref_count_resource@PEAVPlayerViewService@RBX@@V?$Deleter@VPlayerViewService@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A8CB220	0000002D	C	.?AV?$Creator@VPlayerViewService@RBX@@@RBX@@
+.data:00007FF61A8D3740	0000004A	C	.?AV?$BoundFuncDesc@VPlayerViewService@RBX@@$$A6AXXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8D37A0	0000007F	C	.?AV?$BoundFuncDesc@VPlayerViewService@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@VCoordinateFrame@2@_J@Z$02@Reflection@RBX@@
+.data:00007FF61A8D3830	0000005E	C	.?AV?$BoundFuncDesc@VPlayerViewService@RBX@@$$A6A?AVCoordinateFrame@2@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8D38A0	0000007E	C	.?AV?$BoundFuncDesc@VPlayerViewService@RBX@@$$A6A?AVCoordinateFrame@2@V?$shared_ptr@VPlayer@RBX@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8D4FC0	0000009A	C	.?AV?$BoundFuncDesc@VUnreliableRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A8D5100	00000123	C	.?AV?$EventDesc@VUnreliableRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@2@P812@EAAPEAV62@_N@Z@Reflection@RBX@@
+.data:00007FF61A8D5240	00000127	C	.?AV?$EventDescBase@VUnreliableRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@2@P812@EAAPEAV62@_N@Z@Reflection@RBX@@
+.data:00007FF61A8D5380	00000129	C	.?AV?$RemoteEventDesc@VUnreliableRemoteEvent@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@ZV?$LatchedSignal@Vremote_signal@rbx@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@$$CBUTuple@Reflection@RBX@@@4@@Z@2@P812@EAAPEAV62@_N@Z@Reflection@RBX@@
+.data:00007FF61A8D9550	00000032	C	.?AV?$Creator@VAudioPlayer@Soundscape@RBX@@@RBX@@
+.data:00007FF61A8D95A0	00000088	C	.?AV?$_Ref_count_resource@PEAVAudioPlayer@Soundscape@RBX@@V?$Deleter@VAudioPlayer@Soundscape@RBX@@@?$Creatable@VInstance@RBX@@@3@@std@@
+.data:00007FF61A8D9640	00000040	C	.?AV?$Countable@VAudioPlayer@Soundscape@RBX@@@Diagnostics@RBX@@
+.data:00007FF61A8D9690	00000043	C	.?AV?$AudioInstance@VAudioPlayer@Soundscape@RBX@@@Soundscape@RBX@@
+.data:00007FF61A8D96E8	00000025	C	.?AVAudioPlayerProp@Soundscape@RBX@@
+.data:00007FF61A8D9720	00000049	C	.?AV?$DescribedCreatable@VAudioPlayer@Soundscape@RBX@@VInstance@3@@RBX@@
+.data:00007FF61A8D9780	00000049	C	.?AV?$SoundInstanceClient@VAudioPlayer@Soundscape@RBX@@@Soundscape@RBX@@
+.data:00007FF61A8D97E0	00000021	C	.?AVAudioPlayer@Soundscape@RBX@@
+.data:00007FF61A8DA720	000000AC	C	.?AV?$GetSetImpl@P8AudioDeviceInput@Soundscape@RBX@@EBAPEAVPlayer@3@XZP8123@EAAXPEAV43@@Z@?$PropDescriptor@VAudioDeviceInput@Soundscape@RBX@@PEAVPlayer@3@@Reflection@RBX@@
+.data:00007FF61A8DA970	00000030	C	.?AV?$RefType@PEAVPlayer@RBX@@@Reflection@RBX@@
+.data:00007FF61A8DAA80	00000056	C	.?AV?$RefPropDescriptor@VAudioDeviceInput@Soundscape@RBX@@VPlayer@3@@Reflection@RBX@@
+.data:00007FF61A8DAAF0	00000047	C	.?AVGetSet@?$TypedPropertyDescriptor@PEAVPlayer@RBX@@@Reflection@RBX@@
+.data:00007FF61A8DAFE0	00000057	C	.?AV?$RefPropDescriptor@VAudioDeviceOutput@Soundscape@RBX@@VPlayer@3@@Reflection@RBX@@
+.data:00007FF61A8DB050	000000AE	C	.?AV?$GetSetImpl@P8AudioDeviceOutput@Soundscape@RBX@@EBAPEAVPlayer@3@XZP8123@EAAXPEAV43@@Z@?$PropDescriptor@VAudioDeviceOutput@Soundscape@RBX@@PEAVPlayer@3@@Reflection@RBX@@
+.data:00007FF61A8DC8A0	0000008B	C	.?AV?$GetSetImpl@P8AudioPlayerProp@Soundscape@RBX@@EBA_NXZP8123@EAAX_N@Z@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8DC940	00000087	C	.?AV?$GetSetImpl@P8AudioPlayer@Soundscape@RBX@@EBA_NXZP8123@EAAX_N@Z@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8DC9E0	00000045	C	.?AV?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@N@Reflection@RBX@@
+.data:00007FF61A8DCA40	00000082	C	.?AV?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8DCAE0	00000046	C	.?AV?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8DCB40	00000053	C	.?AV?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@VNumberRange@3@@Reflection@RBX@@
+.data:00007FF61A8DCBB0	000000FE	C	.?AV?$BoundFuncDesc@VAudioPlayer@Soundscape@RBX@@$$A8@@EBA?AV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@5@@Z$00@Reflection@RBX@@
+.data:00007FF61A8DCCC0	0000004F	C	.?AV?$BoundFuncDesc@VAudioPlayer@Soundscape@RBX@@$$A6AXXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8DCD20	00000107	C	.?AV?$GetSetImpl@P8AudioPlayer@Soundscape@RBX@@EBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZP8123@EAAXAEBV45@@Z@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8DCE40	00000096	C	.?AV?$GetSetImpl@P8AudioPlayerProp@Soundscape@RBX@@EBA_NXZP8AudioPlayer@23@EAAX_N@Z@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8DCEF0	00000074	C	.?AV?$GetImpl@P8AudioPlayer@Soundscape@RBX@@EBANXZ@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@N@Reflection@RBX@@
+.data:00007FF61A8DCF80	00000076	C	.?AV?$GetImpl@P8AudioPlayer@Soundscape@RBX@@EBA_NXZ@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8DD010	000000A5	C	.?AV?$GetSetImpl@P8AudioPlayer@Soundscape@RBX@@EBA?AVNumberRange@3@XZP8123@EAAXV43@@Z@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@VNumberRange@3@@Reflection@RBX@@
+.data:00007FF61A8DD0D0	00000084	C	.?AV?$GetSetImpl@P8AudioPlayer@Soundscape@RBX@@EBANXZP8123@EAAXN@Z@?$PropDescriptor@VAudioPlayer@Soundscape@RBX@@N@Reflection@RBX@@
+.data:00007FF61A8DD860	000000BE	C	.?AV?$_Ref_count_resource@PEAVPlayerLocaleLocalizationServiceTranslatorInstance@RBX@@V?$Deleter@VPlayerLocaleLocalizationServiceTranslatorInstance@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A8DE0F0	000000AD	C	.?AV?$NoOpQueue@U?$pair@UEntry@LocalizationTableAnalyticsSender@RBX@@V?$optional@UPlayerMetadata@IntegrityCheckedProcessor@RBX@@@std@@@std@@@IntegrityCheckedProcessor@RBX@@
+.data:00007FF61A8DE280	000000B0	C	.?AV?$DequeWrapper@U?$pair@UEntry@LocalizationTableAnalyticsSender@RBX@@V?$optional@UPlayerMetadata@IntegrityCheckedProcessor@RBX@@@std@@@std@@@IntegrityCheckedProcessor@RBX@@
+.data:00007FF61A8DE9C0	000000AD	C	.?AV?$QueueBase@U?$pair@UEntry@LocalizationTableAnalyticsSender@RBX@@V?$optional@UPlayerMetadata@IntegrityCheckedProcessor@RBX@@@std@@@std@@@IntegrityCheckedProcessor@RBX@@
+.data:00007FF61A8DEA80	000000B3	C	.?AV?$ServerQueueBase@U?$pair@UEntry@LocalizationTableAnalyticsSender@RBX@@V?$optional@UPlayerMetadata@IntegrityCheckedProcessor@RBX@@@std@@@std@@@IntegrityCheckedProcessor@RBX@@
+.data:00007FF61A8DEF70	0000003C	C	.?AVPlayerLocaleLocalizationServiceTranslatorInstance@RBX@@
+.data:00007FF61A8DF2A0	000001C2	C	.?AV?$AsyncPlayerCallbackQueueHandler@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@RBX@@
+.data:00007FF61A8DF5C0	0000023B	C	.?AV?$_Func_base@XV?$shared_ptr@VPlayer@RBX@@@std@@V?$function@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@std@@
+.data:00007FF61A8E0240	00000270	C	.?AV?$_Func_impl_no_alloc@V<lambda_85e9efc936fda8ea956e0650cac1b46c>@@XV?$shared_ptr@VPlayer@RBX@@@std@@V?$function@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z@3@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@3@@std@@
+.data:00007FF61A8E04C0	000001DB	C	.?AV?$_Ref_count_obj2@V?$AsyncPlayerCallbackQueueHandler@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@RBX@@@std@@
+.data:00007FF61A8E0F50	000004AD	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8PlayerEmulatorService@RBX@@EAAXV?$function@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZPEAV34@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@@std@@XV?$shared_ptr@VPlayer@RBX@@@2@V?$function@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits
+.data:00007FF61A8E1410	00000031	C	.?AV?$Creator@VPlayerEmulatorService@RBX@@@RBX@@
+.data:00007FF61A8E1458	00000020	C	.?AVPlayerEmulatorService@RBX@@
+.data:00007FF61A8E1488	00000024	C	.?AVPlayerEmulatorServiceProp@RBX@@
+.data:00007FF61A8E14C0	0000004F	C	.?AV?$DescribedCreatable@VPlayerEmulatorService@RBX@@VServiceInstance@2@@RBX@@
+.data:00007FF61A8E49C0	00000060	C	.?AV?$_Ref_count@VTotalPlayerCountJob@?A0xe51be50a@LocalizationTableAnalyticsSender@RBX@@@std@@
+.data:00007FF61A8E4C00	0000004C	C	.?AVTotalPlayerCountJob@?A0xe51be50a@LocalizationTableAnalyticsSender@RBX@@
+.data:00007FF61A8E4E70	000000A7	C	.?AV?$GetSetImpl@P8PlayerEmulatorService@RBX@@EBA?AVBinaryString@2@XZP812@EAAXAEBV32@@Z@?$PropDescriptor@VPlayerEmulatorService@RBX@@VBinaryString@2@@Reflection@RBX@@
+.data:00007FF61A8E4F30	00000103	C	.?AV?$GetSetImpl@P8PlayerEmulatorService@RBX@@EBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZP812@EAAXAEBV34@@Z@?$PropDescriptor@VPlayerEmulatorService@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8E5050	00000053	C	.?AV?$PropDescriptor@VPlayerEmulatorService@RBX@@VBinaryString@2@@Reflection@RBX@@
+.data:00007FF61A8E50C0	00000081	C	.?AV?$PropDescriptor@VPlayerEmulatorService@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8E5160	00000084	C	.?AV?$GetSetImpl@P8PlayerEmulatorService@RBX@@EBA_NXZP812@EAAX_N@Z@?$PropDescriptor@VPlayerEmulatorService@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8E5200	0000008F	C	.?AV?$BoundFuncDesc@VPlayerEmulatorService@RBX@@$$A6A_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8E52A0	000001E8	C	.?AV?$BoundFuncDesc@VPlayerEmulatorService@RBX@@$$A8@@EBA?AV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8E54A0	00000045	C	.?AV?$PropDescriptor@VPlayerEmulatorService@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8E5500	000001E2	C	.?AV?$BoundFuncDesc@VPlayerEmulatorService@RBX@@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8E5A30	00000072	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8Players@RBX@@EAAXXZPEAV34@@std@@XPEAVDataModel@RBX@@@std@@
+.data:00007FF61A8E5CC0	0000019F	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_NV?$weak_ptr@VPlayers@RBX@@@2@V?$function@$$A6AXV?$shared_ptr@VHumanoidDescription@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZAEBU?$_Ph@$00@2@_NAEAV42@AEAV52@AEAV62@@std@@XV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@
+.data:00007FF61A8E71D0	0000018B	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8Players@RBX@@EAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_NV?$function@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@Z@2@V?$function@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@2@@ZPEAV34@AEBU?$_Ph@$00@2@_NAEAV62@AEAV72@@std@@XV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@
+.data:00007FF61A8E76E0	0000007B	C	.?AV?$_Ref_count@V?$vector@UPlayerNameRequest@Players@RBX@@V?$allocator@UPlayerNameRequest@Players@RBX@@@std@@@std@@@std@@
+.data:00007FF61A8E7920	00000073	C	.?AV?$_Ref_count@V?$vector@UUserIdRequest@Players@RBX@@V?$allocator@UUserIdRequest@Players@RBX@@@std@@@std@@@std@@
+.data:00007FF61A8E7AF0	0000007A	C	.?AV?$_Ref_count_resource@PEAVPlayers@RBX@@V?$Deleter@VPlayers@RBX@@@?$Creatable@VDescribedBase@Reflection@RBX@@@2@@std@@
+.data:00007FF61A8E7B80	0000007B	C	.?AV?$_Ref_count_resource@PEAVPlayers@RBX@@V?$Deleter2@VPlayers@RBX@@@?$Creatable@VDescribedBase@Reflection@RBX@@@2@@std@@
+.data:00007FF61A8E7CA0	00000068	C	.?AV?$_Ref_count_resource@PEAVPlayer@RBX@@V?$Deleter@VPlayer@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A8E7D20	00000069	C	.?AV?$_Ref_count_resource@PEAVPlayer@RBX@@V?$Deleter2@VPlayer@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A8E8140	000000F3	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8Players@RBX@@EAAXPEAVDataModel@4@AEBVSystemAddress@4@_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZPEAV34@AEBU?$_Ph@$00@2@AEBV64@_NV72@@std@@XPEAVDataModel@RBX@@@std@@
+.data:00007FF61A8E8370	0000007A	C	.?AV?$_Ref_count@V?$vector@V?$shared_ptr@VPlayer@RBX@@@std@@V?$allocator@V?$shared_ptr@VPlayer@RBX@@@std@@@2@@std@@@std@@
+.data:00007FF61A8E8540	0000002F	C	.?AV?$NonCreatableCreator@VPlayers@RBX@@@RBX@@
+.data:00007FF61A8E8740	00000050	C	.?AV?$EnumDesc@W4PlayerChatType@PlayerChatTypeEnum@Enums@RBX@@@Reflection@RBX@@
+.data:00007FF61A8E8880	000000CB	C	.?AV?$LRUCache@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$ExpiringCacheEntry@_J@PlayerNameCache@RBX@@U?$Hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@5@@RBX@@
+.data:00007FF61A8E8960	0000008F	C	.?AV?$LRUCache@_JU?$ExpiringCacheEntry@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@PlayerNameCache@RBX@@U?$Hash@_J@3@@RBX@@
+.data:00007FF61A8E8A00	00000038	C	.?AV?$Described@VPlayers@RBX@@VServiceInstance@2@@RBX@@
+.data:00007FF61A8E8A48	00000012	C	.?AVPlayers@RBX@@
+.data:00007FF61A8E8A70	00000016	C	.?AVPlayersProp@RBX@@
+.data:00007FF61A8E8AA0	00000072	C	.?AV?$_Ref_count_resource@PEAVPlayerMouse@RBX@@V?$Deleter@VPlayerMouse@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A8E8B30	00000076	C	.?AV?$_Ref_count_resource@PEAVPlayerScripts@RBX@@V?$Deleter@VPlayerScripts@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A8E8BC0	0000006E	C	.?AV?$_Ref_count_resource@PEAVPlayerGui@RBX@@V?$Deleter@VPlayerGui@RBX@@@?$Creatable@VInstance@RBX@@@2@@std@@
+.data:00007FF61A8E8DB0	000000A6	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AXAEBV?$weak_ptr@VPlayer@RBX@@@2@W4CanManageStatus@Player@RBX@@@ZAEBV32@W4456@@std@@XPEAVDataModel@RBX@@@std@@
+.data:00007FF61A8E9220	00000246	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AXV?$shared_ptr@VPlayer@RBX@@@2@_JW4HttpRequestResult@RBX@@V?$shared_ptr@V?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@2@V?$shared_ptr@Vexception@std@@@2@V?$function@$$A6AXV?$shared_ptr@VAnimation@RBX@@@std@@@Z@2@@ZV32@AEA_JAEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEBU?$_Ph@$02@2@AEAV82@@std@@XW4HttpRequestResult@RBX@@V?$shared_ptr@V?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@2@V?$shared_ptr@Vexception@std@@@2@@std@@
+.data:00007FF61A8E9B00	00000033	C	.?AV?$_Ref_count@VPlayerInputTelemetry@RBX@@@std@@
+.data:00007FF61A8E9B50	00000078	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8Player@RBX@@EAAXXZV?$shared_ptr@VPlayer@RBX@@@2@@std@@X$$V@std@@
+.data:00007FF61A8E9D08	00000022	C	.?AV?$Creator@VPlayer@RBX@@@RBX@@
+.data:00007FF61A8E9E10	00000030	C	.?AV?$Countable@VPlayer@RBX@@@Diagnostics@RBX@@
+.data:00007FF61A8E9E50	00000015	C	.?AVPlayerProp@RBX@@
+.data:00007FF61A8E9E80	00000039	C	.?AV?$DescribedCreatable@VPlayer@RBX@@VInstance@2@@RBX@@
+.data:00007FF61A8EA200	000000E9	C	.?AV?$GetSetImpl@P8PlayerProp@RBX@@EBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZP812@EAAXAEBV34@@Z@?$PropDescriptor@VPlayer@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8EA300	0000007C	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AVVector3@2@XZP812@EAAXV32@@Z@?$PropDescriptor@VPlayer@RBX@@VVector3@2@@Reflection@RBX@@
+.data:00007FF61A8EA390	0000006A	C	.?AV?$GetSetImpl@P8PlayerProp@RBX@@EBA_NXZP812@EAAX_N@Z@?$PropDescriptor@VPlayer@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8EA410	000000E2	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZP812@EAAXV34@@Z@?$PropDescriptor@VPlayer@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8EA5A0	0000008F	C	.?AV?$GetSetImpl@P8Player@RBX@@EBAPEAVModelInstance@2@XZP812@EAAXPEAV32@@Z@?$PropDescriptor@VPlayer@RBX@@PEAVModelInstance@2@@Reflection@RBX@@
+.data:00007FF61A8EA690	00000076	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4DeveloperTouchMovementMode@DevTouchMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EA720	00000082	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4DeveloperTouchCameraMovementMode@DevTouchCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EA820	0000004B	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4MembershipType@2@@Reflection@RBX@@
+.data:00007FF61A8EA880	0000007A	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4DeveloperCameraOcclusionMode@DevCameraOcclusionModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EA910	00000047	C	.?AV?$PropDescriptor@VPlayer@RBX@@VCoordinateFrame@2@@Reflection@RBX@@
+.data:00007FF61A8EA970	0000007C	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4DeveloperComputerMovementMode@DevComputerMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EAA00	00000088	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4DeveloperComputerCameraMovementMode@DevComputerCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EAB10	00000058	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4ChatMode@ChatModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EAC00	00000066	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4ChatPrivacyMode@ChatPrivacyModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EACE0	00000048	C	.?AV?$RefPropDescriptor@VPlayer@RBX@@VSpawnLocation@2@@Reflection@RBX@@
+.data:00007FF61A8EAD40	0000005C	C	.?AV?$EnumPropDescriptor@VPlayer@RBX@@W4CameraMode@CameraModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EADB0	00000042	C	.?AV?$PropDescriptor@VPlayer@RBX@@VBrickColor@2@@Reflection@RBX@@
+.data:00007FF61A8EAE70	0000003F	C	.?AV?$RefPropDescriptor@VPlayer@RBX@@VTeam@2@@Reflection@RBX@@
+.data:00007FF61A8EAEC0	00000035	C	.?AV?$PropDescriptor@VPlayer@RBX@@H@Reflection@RBX@@
+.data:00007FF61A8EAF10	00000036	C	.?AV?$PropDescriptor@VPlayer@RBX@@_J@Reflection@RBX@@
+.data:00007FF61A8EAF60	00000035	C	.?AV?$PropDescriptor@VPlayer@RBX@@M@Reflection@RBX@@
+.data:00007FF61A8EAFB0	00000036	C	.?AV?$PropDescriptor@VPlayer@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8EB000	00000043	C	.?AV?$RefPropDescriptor@VPlayer@RBX@@VInstance@2@@Reflection@RBX@@
+.data:00007FF61A8EB060	00000044	C	.?AV?$PropDescriptor@VPlayer@RBX@@VBinaryString@2@@Reflection@RBX@@
+.data:00007FF61A8EB340	0000007A	C	.?AV?$GetImpl@P8Player@RBX@@EBA?AW4MembershipType@2@XZ@?$PropDescriptor@VPlayer@RBX@@W4MembershipType@2@@Reflection@RBX@@
+.data:00007FF61A8EB3D0	000000E5	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4DeveloperTouchMovementMode@DevTouchMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayer@RBX@@W4DeveloperTouchMovementMode@DevTouchMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EB570	0000008D	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4MembershipType@2@XZP812@EAAXW432@@Z@?$PropDescriptor@VPlayer@RBX@@W4MembershipType@2@@Reflection@RBX@@
+.data:00007FF61A8EB610	00000109	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4DeveloperComputerCameraMovementMode@DevComputerCameraMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayer@RBX@@W4DeveloperComputerCameraMovementMode@DevComputerCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EB730	000000ED	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4DeveloperCameraOcclusionMode@DevCameraOcclusionModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayer@RBX@@W4DeveloperCameraOcclusionMode@DevCameraOcclusionModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EB830	000000FD	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4DeveloperTouchCameraMovementMode@DevTouchCameraMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayer@RBX@@W4DeveloperTouchCameraMovementMode@DevTouchCameraMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EB940	000000F1	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4DeveloperComputerMovementMode@DevComputerMovementModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayer@RBX@@W4DeveloperComputerMovementMode@DevComputerMovementModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EBA50	00000094	C	.?AV?$GetImpl@P8Player@RBX@@EBA?AW4ChatMode@ChatModeEnum@Enums@2@XZ@?$PropDescriptor@VPlayer@RBX@@W4ChatMode@ChatModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EBB00	000000B1	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4CameraMode@CameraModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayer@RBX@@W4CameraMode@CameraModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EBBD0	0000008F	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AVCoordinateFrame@2@XZP812@EAAXAEBV32@@Z@?$PropDescriptor@VPlayer@RBX@@VCoordinateFrame@2@@Reflection@RBX@@
+.data:00007FF61A8EBC70	000000C5	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AW4ChatPrivacyMode@ChatPrivacyModeEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayer@RBX@@W4ChatPrivacyMode@ChatPrivacyModeEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A8EBD50	0000008F	C	.?AV?$GetSetImpl@P8Player@RBX@@EBAPEAVSpawnLocation@2@XZP812@EAAXPEAV32@@Z@?$PropDescriptor@VPlayer@RBX@@PEAVSpawnLocation@2@@Reflection@RBX@@
+.data:00007FF61A8EBDF0	00000056	C	.?AV?$GetImpl@P8Player@RBX@@EBA_NXZ@?$PropDescriptor@VPlayer@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8EBE60	00000067	C	.?AV?$GetSetImpl@P8PlayerProp@RBX@@EBAMXZP812@EAAXM@Z@?$PropDescriptor@VPlayer@RBX@@M@Reflection@RBX@@
+.data:00007FF61A8EBEE0	00000082	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA?AVBrickColor@2@XZP812@EAAXV32@@Z@?$PropDescriptor@VPlayer@RBX@@VBrickColor@2@@Reflection@RBX@@
+.data:00007FF61A8EBF80	00000063	C	.?AV?$GetSetImpl@P8Player@RBX@@EBAHXZP812@EAAXH@Z@?$PropDescriptor@VPlayer@RBX@@H@Reflection@RBX@@
+.data:00007FF61A8EC000	00000054	C	.?AV?$GetImpl@P8Player@RBX@@EBAHXZ@?$PropDescriptor@VPlayer@RBX@@H@Reflection@RBX@@
+.data:00007FF61A8EC070	00000056	C	.?AV?$GetImpl@P8Player@RBX@@EBA_JXZ@?$PropDescriptor@VPlayer@RBX@@_J@Reflection@RBX@@
+.data:00007FF61A8EC0E0	0000006A	C	.?AV?$GetSetImpl@P8PlayerProp@RBX@@EBA_JXZP812@EAAX_J@Z@?$PropDescriptor@VPlayer@RBX@@_J@Reflection@RBX@@
+.data:00007FF61A8EC160	0000007D	C	.?AV?$GetSetImpl@P8Player@RBX@@EBAPEAVTeam@2@XZP812@EAAXPEAV32@@Z@?$PropDescriptor@VPlayer@RBX@@PEAVTeam@2@@Reflection@RBX@@
+.data:00007FF61A8EC1F0	00000066	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA_NXZP812@EAAX_N@Z@?$PropDescriptor@VPlayer@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8EC270	000000E6	C	.?AV?$GetSetImpl@P8PlayerProp@RBX@@EBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZP812@EAAXV34@@Z@?$PropDescriptor@VPlayer@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8EC370	00000066	C	.?AV?$GetSetImpl@P8Player@RBX@@EBA_JXZP812@EAAX_J@Z@?$PropDescriptor@VPlayer@RBX@@_J@Reflection@RBX@@
+.data:00007FF61A8EC3F0	00000063	C	.?AV?$GetSetImpl@P8Player@RBX@@EBAMXZP812@EAAXM@Z@?$PropDescriptor@VPlayer@RBX@@M@Reflection@RBX@@
+.data:00007FF61A8EC470	000000D0	C	.?AV?$GetImpl@P8Player@RBX@@EBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ@?$PropDescriptor@VPlayer@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8EC550	00000085	C	.?AV?$GetSetImpl@P8Player@RBX@@EBAPEAVInstance@2@XZP812@EAAXPEAV32@@Z@?$PropDescriptor@VPlayer@RBX@@PEAVInstance@2@@Reflection@RBX@@
+.data:00007FF61A8EC5F0	0000008A	C	.?AV?$GetSetImpl@P8Player@RBX@@EBAAEBVBinaryString@2@XZP812@EAAXAEBV32@@Z@?$PropDescriptor@VPlayer@RBX@@VBinaryString@2@@Reflection@RBX@@
+.data:00007FF61A8EC690	0000007E	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8EC720	0000007F	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A?AW4FriendService_FriendStatus@2@V?$shared_ptr@VPlayer@RBX@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EC7B0	00000060	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A?AV?$shared_ptr@VMouse@RBX@@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8EC820	000001D5	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8ECA10	000000AB	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8ECAD0	00000049	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AMVVector3@2@@Z$00@Reflection@RBX@@
+.data:00007FF61A8ECB30	0000003F	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8ECB80	00000083	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXW4AssetType@2@_J@ZV?$remote_signal@$$A6AXW4AssetType@RBX@@_J@Z@rbx@@PEQ12@V45@@Reflection@RBX@@
+.data:00007FF61A8ECC20	00000087	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXW4AssetType@2@_J@ZV?$remote_signal@$$A6AXW4AssetType@RBX@@_J@Z@rbx@@PEQ12@V45@@Reflection@RBX@@
+.data:00007FF61A8ECCC0	00000066	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXM@ZV?$remote_signal@$$A6AXM@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8ECD40	00000068	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXM@ZV?$remote_signal@$$A6AXM@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8ECDC0	00000089	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXW4AssetType@2@_J@ZV?$remote_signal@$$A6AXW4AssetType@RBX@@_J@Z@rbx@@PEQ12@V45@@Reflection@RBX@@
+.data:00007FF61A8ECE60	00000062	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXM@ZV?$remote_signal@$$A6AXM@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8ECEE0	0000006A	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AX_N@ZV?$remote_signal@$$A6AX_N@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8ECF60	000000E0	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8ED050	00000064	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AX_N@ZV?$remote_signal@$$A6AX_N@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8ED0D0	00000068	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AX_N@ZV?$remote_signal@$$A6AX_N@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8ED150	000004D4	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@4@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@4@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@2@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU
+.data:00007FF61A8ED640	000004D8	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@4@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@4@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@2@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_strin
+.data:00007FF61A8EDB30	000000E4	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8EDC30	000000E6	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8EDD30	000000F9	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVector3@2@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVector3@RBX@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8EDE40	000000FB	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVector3@2@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVector3@RBX@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8EDF50	000004DA	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@4@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@4@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@2@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_str
+.data:00007FF61A8EE440	000000F5	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVector3@2@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVector3@RBX@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8EE5B0	00000048	C	.?AV?$RefPropDescriptor@VPlayer@RBX@@VModelInstance@2@@Reflection@RBX@@
+.data:00007FF61A8EE610	00000072	C	.?AV?$PropDescriptor@VPlayer@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8EE6A0	0000003F	C	.?AV?$PropDescriptor@VPlayer@RBX@@VVector3@2@@Reflection@RBX@@
+.data:00007FF61A8EE6F0	000000B2	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@H@Z$00@Reflection@RBX@@
+.data:00007FF61A8EE7C0	00000045	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6A_NXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8EE820	0000004F	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6AXVVector3@2@N@Z$01@Reflection@RBX@@
+.data:00007FF61A8EE880	0000004B	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXVVector3@2@_N@Z$01@Reflection@RBX@@
+.data:00007FF61A8EE8E0	00000051	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXW4MembershipType@2@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EE950	0000007F	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EE9E0	00000042	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AX_J_N@Z$01@Reflection@RBX@@
+.data:00007FF61A8EEA40	00000040	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AX_N@Z$00@Reflection@RBX@@
+.data:00007FF61A8EEA90	0000007D	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z$01@Reflection@RBX@@
+.data:00007FF61A8EEB20	0000007D	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@N@Z$01@Reflection@RBX@@
+.data:00007FF61A8EEBB0	0000007C	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EEC40	0000003F	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXH@Z$00@Reflection@RBX@@
+.data:00007FF61A8EEC90	0000005F	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EED00	00000081	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V34@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EEDA0	0000009C	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@VInstance@RBX@@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A8EEE50	0000007E	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z$01@Reflection@RBX@@
+.data:00007FF61A8EEEE0	00000071	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@VHumanoidDescription@RBX@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EEF70	00000061	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@VInstance@RBX@@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EEFF0	0000007C	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6ANV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EF080	0000009D	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A?AV?$shared_ptr@VInstance@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EF130	00000046	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6A_N_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8EF190	00000040	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A_NXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8EF1E0	00000044	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6AXXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8EF240	0000007D	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6A_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8EF2D0	00000045	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6AH_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8EF330	0000003F	C	.?AV?$BoundFuncDesc@VPlayer@RBX@@$$A6AMXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8EF380	00000084	C	.?AV?$BoundYieldFuncDesc@VPlayer@RBX@@$$A6A?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8EF420	00000033	C	.?AV?$YieldFuncDesc@VPlayer@RBX@@@Reflection@RBX@@
+.data:00007FF61A8EF470	000000B1	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AX_JW4FriendService_FriendEventType@2@@ZV?$remote_signal@$$A6AX_JW4FriendService_FriendEventType@RBX@@@Z@rbx@@PEQ12@V45@@Reflection@RBX@@
+.data:00007FF61A8EF540	0000038A	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8EF8E0	000000AB	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AX_JW4FriendService_FriendEventType@2@@ZV?$remote_signal@$$A6AX_JW4FriendService_FriendEventType@RBX@@@Z@rbx@@PEQ12@V45@@Reflection@RBX@@
+.data:00007FF61A8EF9A0	000000AF	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AX_JW4FriendService_FriendEventType@2@@ZV?$remote_signal@$$A6AX_JW4FriendService_FriendEventType@RBX@@@Z@rbx@@PEQ12@V45@@Reflection@RBX@@
+.data:00007FF61A8EFA60	000000DC	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8EFB50	000000E0	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8EFC40	0000038E	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8EFFE0	00000390	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F0380	00000415	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXW4TeleportService_TeleportState@2@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@V?$shared_ptr@VInstance@RBX@@@5@@ZV?$remote_signal@$$A6AXW4TeleportService_TeleportState@RBX@@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@V?$shared_ptr@VInstance@RBX@@@4@@Z@rbx@@PEQ12@
+.data:00007FF61A8F07B0	00000417	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXW4TeleportService_TeleportState@2@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@V?$shared_ptr@VInstance@RBX@@@5@@ZV?$remote_signal@$$A6AXW4TeleportService_TeleportState@RBX@@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@V?$shared_ptr@VInstance@RBX@@@4@@Z@rbx@@PEQ1
+.data:00007FF61A8F0BE0	000000E2	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F0CE0	00000411	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXW4TeleportService_TeleportState@2@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@V?$shared_ptr@VInstance@RBX@@@5@@ZV?$remote_signal@$$A6AXW4TeleportService_TeleportState@RBX@@V?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@V?$shared_ptr@VInstance@RBX@@@4@@Z@rbx@@PEQ12@V78@
+.data:00007FF61A8F1110	0000012D	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXW4TeleportService_TeleportState@2@_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXW4TeleportService_TeleportState@RBX@@_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F1250	0000005F	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXN@ZV?$signal@$$A6AXN@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F12C0	00000127	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXW4TeleportService_TeleportState@2@_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXW4TeleportService_TeleportState@RBX@@_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F1400	0000012B	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXW4TeleportService_TeleportState@2@_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXW4TeleportService_TeleportState@RBX@@_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F1540	000000DC	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@W4FriendService_FriendStatus@2@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@W4FriendService_FriendStatus@RBX@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F1630	00000060	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXXZV?$remote_signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F16A0	0000005B	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXN@ZV?$signal@$$A6AXN@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F1710	000000E0	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@W4FriendService_FriendStatus@2@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@W4FriendService_FriendStatus@RBX@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F1800	0000013A	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F1950	0000013E	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F1AA0	00000064	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXXZV?$remote_signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F1B20	00000066	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXXZV?$remote_signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F1BA0	00000111	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@VPlayer@RBX@@@4@@ZV?$signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@VPlayer@RBX@@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F1CD0	000000AD	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F1D90	00000140	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F1EE0	00000115	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@VPlayer@RBX@@@4@@ZV?$signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@VPlayer@RBX@@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F2010	000000B4	C	.?AV?$EventDescBase@VPlayer@RBX@@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F20E0	000000B6	C	.?AV?$RemoteEventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F21B0	000000A9	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F2270	000000B0	C	.?AV?$EventDesc@VPlayer@RBX@@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@ZV?$remote_signal@$$A6AXV?$shared_ptr@VModelInstance@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F2990	00000065	C	.?AV?$GetSetImpl@P8Players@RBX@@EBAHXZP812@EAAXH@Z@?$PropDescriptor@VPlayers@RBX@@H@Reflection@RBX@@
+.data:00007FF61A8F2A10	00000069	C	.?AV?$GetSetImpl@P8PlayersProp@RBX@@EBAMXZP812@EAAXM@Z@?$PropDescriptor@VPlayers@RBX@@M@Reflection@RBX@@
+.data:00007FF61A8F2A90	000000E7	C	.?AV?$GetSetImpl@P8Players@RBX@@EBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZP812@EAAXAEBV34@@Z@?$PropDescriptor@VPlayers@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8F2C30	0000006C	C	.?AV?$GetSetImpl@P8PlayersProp@RBX@@EBA_NXZP812@EAAX_N@Z@?$PropDescriptor@VPlayers@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8F2CB0	00000058	C	.?AV?$GetImpl@P8Players@RBX@@EBA_NXZ@?$PropDescriptor@VPlayers@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8F2D20	0000006E	C	.?AV?$GetImpl@P8Players@RBX@@EBAPEAVPlayer@2@XZ@?$PropDescriptor@VPlayers@RBX@@PEAVPlayer@2@@Reflection@RBX@@
+.data:00007FF61A8F2DA0	00000056	C	.?AV?$GetImpl@P8Players@RBX@@EBAHXZ@?$PropDescriptor@VPlayers@RBX@@H@Reflection@RBX@@
+.data:00007FF61A8F2E10	00000036	C	.?AV?$PropDescriptor@VPlayers@RBX@@H@Reflection@RBX@@
+.data:00007FF61A8F2E60	00000036	C	.?AV?$PropDescriptor@VPlayers@RBX@@M@Reflection@RBX@@
+.data:00007FF61A8F2EB0	00000073	C	.?AV?$PropDescriptor@VPlayers@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Reflection@RBX@@
+.data:00007FF61A8F2F90	00000069	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AX_N@ZV?$remote_signal@$$A6AX_N@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F3010	00000065	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AX_N@ZV?$remote_signal@$$A6AX_N@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F3090	0000010A	C	.?AV?$RemoteEventDesc@VPlayers@RBX@@$$A6AXW4MessageType@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@ZV?$remote_signal@$$A6AXW4MessageType@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F31B0	00000108	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXW4MessageType@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@ZV?$remote_signal@$$A6AXW4MessageType@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F32D0	0000006B	C	.?AV?$RemoteEventDesc@VPlayers@RBX@@$$A6AX_J@ZV?$remote_signal@$$A6AX_J@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F3350	00000069	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AX_J@ZV?$remote_signal@$$A6AX_J@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F33D0	00000065	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AX_J@ZV?$remote_signal@$$A6AX_J@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F3450	0000006B	C	.?AV?$RemoteEventDesc@VPlayers@RBX@@$$A6AX_N@ZV?$remote_signal@$$A6AX_N@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F34D0	000000DD	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F35C0	000000EB	C	.?AV?$RemoteEventDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J10@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J10@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F36C0	000000E9	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J10@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J10@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F37C0	000000E5	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J10@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J10@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F38C0	00000172	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXW4PlayerChatType@PlayerChatTypeEnum@Enums@2@V?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@7@1@ZV?$signal@$$A6AXW4PlayerChatType@PlayerChatTypeEnum@Enums@RBX@@V?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@6@1@Z@rbx@@PEQ12@V9rbx@@@Reflection@RBX@@
+.data:00007FF61A8F3A50	00000176	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXW4PlayerChatType@PlayerChatTypeEnum@Enums@2@V?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@7@1@ZV?$signal@$$A6AXW4PlayerChatType@PlayerChatTypeEnum@Enums@RBX@@V?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@6@1@Z@rbx@@PEQ12@V9rbx@@@Reflection@RBX@@
+.data:00007FF61A8F3BE0	000000E3	C	.?AV?$RemoteEventDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F3CE0	000000E1	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F3DE0	00000065	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXXZV?$remote_signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F3E60	00000061	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXXZV?$remote_signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F3EE0	0000009C	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F3F90	000000A0	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F4040	000000E9	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@0W4FriendService_FriendEventType@2@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@0W4FriendService_FriendEventType@RBX@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F4140	000000D6	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F4230	000000DA	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@ZV?$signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F4320	00000067	C	.?AV?$RemoteEventDesc@VPlayers@RBX@@$$A6AXXZV?$remote_signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F43A0	000000E5	C	.?AV?$RemoteEventDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F44A0	000000E3	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F45A0	000000DF	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@ZV?$remote_signal@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z@rbx@@PEQ12@V56@@Reflection@RBX@@
+.data:00007FF61A8F4690	000000E5	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@0W4FriendService_FriendEventType@2@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@0W4FriendService_FriendEventType@RBX@@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F4790	000000C6	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@VModelInstance@RBX@@@std@@V?$shared_ptr@VHumanoidDescription@RBX@@@4@W4HumanoidRigType@2@W4AssetTypeVerification@2@@Z$02@Reflection@RBX@@
+.data:00007FF61A8F4870	00000062	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6AXW4ChatOption@ChatStyleEnum@Enums@2@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F48F0	00000037	C	.?AV?$PropDescriptor@VPlayers@RBX@@_N@Reflection@RBX@@
+.data:00007FF61A8F4940	00000042	C	.?AV?$RefPropDescriptor@VPlayers@RBX@@VPlayer@2@@Reflection@RBX@@
+.data:00007FF61A8F49A0	0000009B	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A8F4A50	00000040	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6AXXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8F4AA0	00000095	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6AX_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@1W4MembershipType@2@_N@Z$04@Reflection@RBX@@
+.data:00007FF61A8F4B50	0000009D	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$shared_ptr@VInstance@RBX@@@4@@Z$01@Reflection@RBX@@
+.data:00007FF61A8F4C00	000000BB	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$vector@V?$shared_ptr@VPlayer@RBX@@@std@@V?$allocator@V?$shared_ptr@VPlayer@RBX@@@std@@@2@@std@@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8F4CD0	00000083	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A_JV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F4D70	000000C5	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@$$CBUTuple@Reflection@RBX@@@std@@_JW4ThumbnailType@ThumbnailTypeEnum@Enums@2@W4ThumbnailSize@ThumbnailSizeEnum@72@@Z$02@Reflection@RBX@@
+.data:00007FF61A8F4E50	0000009C	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@1@Z$02@Reflection@RBX@@
+.data:00007FF61A8F4F00	00000075	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@VHumanoidDescription@RBX@@@std@@_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8F4F90	00000085	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8F5030	00000063	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@VPlayer@RBX@@@std@@_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8F50B0	00000086	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@VPlayer@RBX@@@std@@V?$shared_ptr@VModelInstance@RBX@@@4@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F5150	00000034	C	.?AV?$YieldFuncDesc@VPlayers@RBX@@@Reflection@RBX@@
+.data:00007FF61A8F51A0	00000062	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@VPlayer@RBX@@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8F5220	000001DC	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VVariant@Reflection@RBX@@@std@@@2@@std@@@std@@_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8F5410	0000006D	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@VFriendPages@RBX@@@std@@_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8F5490	0000007D	C	.?AV?$BoundFuncDesc@VPlayers@RBX@@$$A6AXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F5520	0000006F	C	.?AV?$BoundYieldFuncDesc@VPlayers@RBX@@$$A6A?AV?$shared_ptr@VModelInstance@RBX@@@std@@_J@Z$00@Reflection@RBX@@
+.data:00007FF61A8F55A0	00000104	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXW4MessageType@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@ZV?$remote_signal@$$A6AXW4MessageType@RBX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F56C0	00000112	C	.?AV?$EventDesc@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F57F0	00000116	C	.?AV?$EventDescBase@VPlayers@RBX@@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@4@@ZV?$signal@$$A6AXV?$shared_ptr@VPlayer@RBX@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z@rbx@@PEQ12@V67@@Reflection@RBX@@
+.data:00007FF61A8F5F30	00000056	C	.?AV?$_Ref_count_obj2@UCharacterAppearanceAssetInfo@PlayerCharacterLoader@RBX@@@std@@
+.data:00007FF61A8F6940	00000291	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P6AXV?$weak_ptr@VPlayer@RBX@@@2@UAvatarData@PlayerCharacterLoader@RBX@@UAssetLoadingData@56@W4HttpRequestResult@6@V?$shared_ptr@V?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@2@VTime@6@W4AssetType@6@_J_NAEBUHumanoidDescriptionAsset@6@@ZAEAV32@AEAU456@AEAU756@AEBU?$_Ph@$00@2@AEBU?$_Ph@$01@2@AEAVTime@6@AEAW4AssetType@6@AEA_J_NAEAUHumanoidDescriptionAsset@6@@std@@XW4HttpRequestResult@RBX@@V?$shared_ptr@V?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@2@V?$shared_ptr@Vexception@std@@@2@@std@@
+.data:00007FF61A8F6DF0	0000026E	C	.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@A6AXV?$shared_ptr@VPages@RBX@@@2@V?$weak_ptr@VPlayer@RBX@@@2@V?$weak_ptr@VHumanoidDescription@RBX@@@2@V?$unordered_map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$set@_JU?$less@_J@std@@V?$allocator@_J@2@@2@U?$hash@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@U?$equal_to@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$set@_JU?$less@_J@std@@V?$allocator@_J@2@@2@@std@@@2@@2@@ZAEAV32@AEAV42@AEAV52@AEAV62@@std@@X$$V@std@@
+.data:00007FF61A8F7BF0	00000029	C	.?AV?$Creator@VPlayerScripts@RBX@@@RBX@@
+.data:00007FF61A8F7C30	00000030	C	.?AV?$Creator@VStarterPlayerScripts@RBX@@@RBX@@
+.data:00007FF61A8F7CF0	00000047	C	.?AV?$DescribedCreatable@VStarterPlayerScripts@RBX@@VInstance@2@@RBX@@
+.data:00007FF61A8F7D48	00000023	C	.?AVStarterPlayerScriptsProp@RBX@@
+.data:00007FF61A8F7D80	0000001F	C	.?AVStarterPlayerScripts@RBX@@
+.data:00007FF61A8F7DB0	00000056	C	.?AV?$DescribedCreatable@VStarterCharacterScripts@RBX@@VStarterPlayerScripts@2@@RBX@@
+.data:00007FF61A8F7E18	00000018	C	.?AVPlayerScripts@RBX@@
+.data:00007FF61A8F7E40	00000040	C	.?AV?$DescribedCreatable@VPlayerScripts@RBX@@VInstance@2@@RBX@@
+.data:00007FF61A8F7E90	0000001C	C	.?AVPlayerScriptsProp@RBX@@
+.data:00007FF61A8F7F70	00000033	C	.?AV?$NonCreatableCreator@VPlayerMouse@RBX@@@RBX@@
+.data:00007FF61A8F7FC0	00000082	C	.?AV?$_Ref_count_resource@PEAVPlayerMouse@RBX@@V?$Deleter@VPlayerMouse@RBX@@@?$Creatable@VDescribedBase@Reflection@RBX@@@2@@std@@
+.data:00007FF61A8F8058	00000016	C	.?AVPlayerMouse@RBX@@
+.data:00007FF61A8F8080	00000032	C	.?AV?$Described@VPlayerMouse@RBX@@VMouse@2@@RBX@@
+.data:00007FF61A8F80C8	0000001A	C	.?AVPlayerMouseProp@RBX@@
+.data:00007FF61A8F8100	0000007D	C	.?AV?$BoundFuncDesc@VPlayerScripts@RBX@@$$A6AXW4ComputerMovementMode@ComputerMovementModeEnum@Enums@2@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F8190	00000083	C	.?AV?$BoundFuncDesc@VPlayerScripts@RBX@@$$A6AXW4TouchCameraMovementMode@TouchCameraMovementModeEnum@Enums@2@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F8230	00000077	C	.?AV?$BoundFuncDesc@VPlayerScripts@RBX@@$$A6AXW4TouchMovementMode@TouchMovementModeEnum@Enums@2@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F82C0	00000046	C	.?AV?$BoundFuncDesc@VPlayerScripts@RBX@@$$A6AXXZ$0A@@Reflection@RBX@@
+.data:00007FF61A8F8320	000000B4	C	.?AV?$BoundFuncDesc@VPlayerScripts@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$vector@VVariant@Reflection@RBX@@V?$allocator@VVariant@Reflection@RBX@@@std@@@std@@@std@@XZ$0A@@Reflection@RBX@@
+.data:00007FF61A8F83F0	00000089	C	.?AV?$BoundFuncDesc@VPlayerScripts@RBX@@$$A6AXW4ComputerCameraMovementMode@ComputerCameraMovementModeEnum@Enums@2@@Z$00@Reflection@RBX@@
+.data:00007FF61A8F8490	00000060	C	.?AV?$EventDesc@VPlayerScripts@RBX@@$$A6AXXZV?$signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F8500	00000064	C	.?AV?$EventDescBase@VPlayerScripts@RBX@@$$A6AXXZV?$signal@$$A6AXXZ@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A8F8CE0	0000006C	C	.?AV?$_Func_impl_no_alloc@V<lambda_ecd306ad0e59a17f5debe65793811511>@@XW4CanManageStatus@Player@RBX@@@std@@
+.data:00007FF61A8FA278	00000018	C	.?AVPlayerGuiProp@RBX@@
+.data:00007FF61A8FA2A0	00000040	C	.?AV?$Described@VStarterGuiService@RBX@@VBasePlayerGui@2@@RBX@@
+.data:00007FF61A8FA320	00000014	C	.?AVPlayerGui@RBX@@
+.data:00007FF61A8FA350	00000041	C	.?AV?$DescribedCreatable@VPlayerGui@RBX@@VBasePlayerGui@2@@RBX@@
+.data:00007FF61A8FA8E0	00000025	C	.?AV?$Creator@VPlayerGui@RBX@@@RBX@@
+.data:00007FF61A8FA980	00000018	C	.?AVBasePlayerGui@RBX@@
+.data:00007FF61A8FA9B0	0000003D	C	.?AV?$Described@VCoreGuiService@RBX@@VBasePlayerGui@2@@RBX@@
+.data:00007FF61A8FAA90	00000037	C	.?AV?$Described@VBasePlayerGui@RBX@@VInstance@2@@RBX@@
+.data:00007FF61A8FAAD8	0000001C	C	.?AVBasePlayerGuiProp@RBX@@
+.data:00007FF61A9101B0	000000D0	C	.?AV?$BoundFuncDesc@VBasePlayerGui@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@std@@VVector2@2@M@Z$01@Reflection@RBX@@
+.data:00007FF61A910290	000000C6	C	.?AV?$BoundFuncDesc@VBasePlayerGui@RBX@@$$A6A?AV?$shared_ptr@$$CBV?$vector@V?$shared_ptr@VInstance@RBX@@@std@@V?$allocator@V?$shared_ptr@VInstance@RBX@@@std@@@2@@std@@@std@@HH@Z$01@Reflection@RBX@@
+.data:00007FF61A910BD0	000000D3	C	.?AV?$GetSetImpl@P8PlayerGui@RBX@@EBA?AW4ScreenOrientation@ScreenOrientationEnum@Enums@2@XZP812@EAAXW43452@@Z@?$PropDescriptor@VPlayerGui@RBX@@W4ScreenOrientation@ScreenOrientationEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A910CC0	000000BE	C	.?AV?$GetImpl@P8PlayerGui@RBX@@EBA?AW4ScreenOrientation@ScreenOrientationEnum@Enums@2@XZ@?$PropDescriptor@VPlayerGui@RBX@@W4ScreenOrientation@ScreenOrientationEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A910D90	00000042	C	.?AV?$BoundFuncDesc@VPlayerGui@RBX@@$$A6AXM@Z$00@Reflection@RBX@@
+.data:00007FF61A910DF0	00000042	C	.?AV?$BoundFuncDesc@VPlayerGui@RBX@@$$A6AMXZ$0A@@Reflection@RBX@@
+.data:00007FF61A910E50	0000009A	C	.?AV?$GetSetImpl@P8BasePlayerGui@RBX@@EBAPEAVGuiObject@2@XZP8PlayerGui@2@EAAXPEAV32@@Z@?$PropDescriptor@VPlayerGui@RBX@@PEAVGuiObject@2@@Reflection@RBX@@
+.data:00007FF61A910F00	0000006D	C	.?AV?$EnumPropDescriptor@VPlayerGui@RBX@@W4ScreenOrientation@ScreenOrientationEnum@Enums@2@@Reflection@RBX@@
+.data:00007FF61A910F80	00000047	C	.?AV?$RefPropDescriptor@VPlayerGui@RBX@@VGuiObject@2@@Reflection@RBX@@
+.data:00007FF61A910FE0	00000062	C	.?AV?$EventDescBase@VPlayerGui@RBX@@$$A6AXM@ZV?$signal@$$A6AXM@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
+.data:00007FF61A911060	0000005E	C	.?AV?$EventDesc@VPlayerGui@RBX@@$$A6AXM@ZV?$signal@$$A6AXM@Z@rbx@@PEQ12@V34@@Reflection@RBX@@
